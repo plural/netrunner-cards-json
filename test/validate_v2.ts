@@ -289,7 +289,6 @@ describe('Restrictions', () => {
       });
   });
 
-  // TODO(plural): de-dupe this with the format id.
   const formats =
     fs.readdirSync(resolve(__dirname, "../v2/formats"), { withFileTypes: true })
       .filter(dirent => dirent.isFile())
