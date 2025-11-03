@@ -1901,5 +1901,19 @@
     "code": "standard-ban-list-25-10",
     "date_start": "2025-10-03",
     "name": "Standard Ban List 25.10"
+  },
+  {
+    "cards": {
+      "30006": { "deck_limit": 0 },
+      "30051": { "deck_limit": 0 },
+      "30063": { "deck_limit": 0 },
+      "34012": { "deck_limit": 0 },
+      "34089": { "deck_limit": 0 },
+      "34111": { "deck_limit": 0 }
+    },
+    "code": "startup-balance-update-25-11-for-classic-only",
+    "date_start": "2025-05-05",
+    "name": "Startup Balance Update 25.11 (ignore active date)",
+    "subtypes": { "current": { "deck_limit": 0 } }
   }
 ]
