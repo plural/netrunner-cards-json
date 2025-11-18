@@ -197,13 +197,13 @@
       "restriction_id": "standard_ban_list_25_04"
     },
     {
-      "active": true,
       "card_pool_id": "rotation_2025",
       "date_start": "2025-08-01",
       "id": "standard_31",
       "restriction_id": "standard_ban_list_25_08"
     },
     {
+      "active": true,
       "card_pool_id": "rotation_2025",
       "date_start": "2025-10-03",
       "id": "standard_32",
