@@ -192,22 +192,28 @@
     },
     {
       "card_pool_id": "rotation_2025",
-      "date_start": "2024-04-24",
+      "date_start": "2025-04-24",
       "id": "standard_30",
       "restriction_id": "standard_ban_list_25_04"
     },
     {
       "active": true,
       "card_pool_id": "rotation_2025",
-      "date_start": "2024-08-01",
+      "date_start": "2025-08-01",
       "id": "standard_31",
       "restriction_id": "standard_ban_list_25_08"
     },
     {
       "card_pool_id": "rotation_2025",
-      "date_start": "2024-10-03",
+      "date_start": "2025-10-03",
       "id": "standard_32",
       "restriction_id": "standard_ban_list_25_10"
+    },
+    {
+      "card_pool_id": "rotation_2025",
+      "date_start": "2025-12-01",
+      "id": "standard_33",
+      "restriction_id": "standard_ban_list_25_12"
     }
   ]
 }
