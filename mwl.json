@@ -1912,7 +1912,7 @@
       "34111": { "deck_limit": 0 }
     },
     "code": "startup-balance-update-25-11-for-classic-only",
-    "date_start": "2025-05-05",
+    "date_start": "2025-11-03",
     "name": "Startup Balance Update 25.11 (ignore active date)",
     "subtypes": { "current": { "deck_limit": 0 } }
   },
