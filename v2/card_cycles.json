@@ -194,5 +194,12 @@
     "name": "Elevation",
     "position": 34,
     "released_by": "null_signal_games"
+  },
+  {
+    "id": "vantage_point",
+    "legacy_code": "vantage-point",
+    "name": "Vantage Point",
+    "position": 35,
+    "released_by": "null_signal_games"
   }
 ]

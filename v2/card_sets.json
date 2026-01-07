@@ -812,5 +812,16 @@
     "position": 1,
     "released_by": "null_signal_games",
     "size": 82
+  },
+  {
+    "card_cycle_id": "vantage_point",
+    "card_set_type_id": "deluxe",
+    "date_release": "2026-03-02",
+    "id": "vantage_point",
+    "legacy_code": "vp",
+    "name": "Vantage Point",
+    "position": 1,
+    "released_by": "null_signal_games",
+    "size": 66
   }
 ]

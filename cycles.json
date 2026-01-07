@@ -194,5 +194,12 @@
     "position": 34,
     "rotated": false,
     "size": 1
+  },
+  {
+    "code": "vantage-point",
+    "name": "Vantage Point",
+    "position": 35,
+    "rotated": false,
+    "size": 1
   }
 ]

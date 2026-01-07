@@ -1,0 +1,52 @@
+[
+  {
+    "card_id": "corsair",
+    "card_set_id": "vantage_point",
+    "flavor": "There have been many golden ages of piracy, each occurring on stranger and stormier waters.",
+    "id": "36004",
+    "illustrator": "Anna Butova",
+    "position": 4,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "lampades",
+    "card_set_id": "vantage_point",
+    "flavor": "“We herald the goddess.”",
+    "id": "36005",
+    "illustrator": "Júlio Rocha",
+    "position": 5,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "underdome_irregulars",
+    "card_set_id": "vantage_point",
+    "flavor": "“Got me out of a jam, so I lend it a hand sometimes. Same with most of us: favors, debts, blackmail, whatever. Point is, when Vic calls, you pick up.”",
+    "id": "36016",
+    "illustrator": "Mauricio Herrera",
+    "position": 16,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "synchrocyclotron",
+    "card_set_id": "vantage_point",
+    "flavor": "The cyclotron’s utility was discovered after its magnets quenched during load testing, resulting in 1,600 tons of liquid helium venting directly into Heinlein city tenements and an anomalous 13-second local time loss. An apology was issued, funerals were covered, and funding was rerouted to recreate the error at scale.",
+    "id": "36027",
+    "illustrator": "Anna Butova",
+    "position": 27,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "flood_the_market",
+    "card_set_id": "vantage_point",
+    "flavor": "There is a tipping point where an ad becomes so omnipresent, it’s subliminal.",
+    "id": "36053",
+    "illustrator": "Dimik",
+    "position": 53,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  }
+]
