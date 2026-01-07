@@ -80,7 +80,7 @@
     "title": "Synchrocyclotron",
     "trash_cost": 3,
     "type_code": "asset",
-    "uniqueness": false
+    "uniqueness": true
   },
   {
     "code": "36053",
