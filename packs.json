@@ -648,6 +648,15 @@
     "size": 20
   },
   {
+    "code": "vp",
+    "cycle_code": "vantage-point",
+    "date_release": "2026-03-02",
+    "ffg_id": null,
+    "name": "Vantage Point",
+    "position": 1,
+    "size": 66
+  },
+  {
     "code": "win",
     "cycle_code": "kitara",
     "date_release": "2018-05-03",
