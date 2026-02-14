@@ -40,6 +40,20 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "melies_u_only_the_brightest",
+    "card_set_id": "vantage_point",
+    "faces": [
+      { "flavor": "Above all else." },
+      { "flavor": "Beneath any notice." },
+      { "flavor": "Off the record." }
+    ],
+    "id": "36036",
+    "illustrator": "Kira L. Nguyen",
+    "position": 36,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "flood_the_market",
     "card_set_id": "vantage_point",
     "flavor": "There is a tipping point where an ad becomes so omnipresent, it’s subliminal.",
