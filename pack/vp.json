@@ -83,6 +83,26 @@
     "uniqueness": true
   },
   {
+    "code": "36036",
+    "deck_limit": 1,
+    "faction_code": "jinteki",
+    "flavor": "\"\"\nAbove all else.\nBeneath any notice.\nOff the record.",
+    "illustrator": "Kira L. Nguyen",
+    "influence_limit": 15,
+    "keywords": "Division",
+    "minimum_deck_size": 45,
+    "pack_code": "vp",
+    "position": 36,
+    "quantity": 1,
+    "side_code": "corp",
+    "stripped_text": "When your discard phase ends, secretly set your identity to any copy of Melies U: Only the Brightest. When the Runner makes a successful run on a central server, flip this identity. When the Runner's action phase ends, gain 1 credit. Flip side: When you flip this identity to this side during a run on HQ, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ. When the Runner's discard phase ends, flip this identity. Flip side: When you flip this identity to this side during a run on R&D, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ. When the Runner's discard phase ends, flip this identity. Flip side: When you flip this identity to this side during a run on Archives, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ. When the Runner's discard phase ends, flip this identity.",
+    "stripped_title": "Melies U: Only the Brightest",
+    "text": "When your discard phase ends, secretly set your identity to any copy of Méliès U: Only the Brightest.\nWhen the Runner makes a successful run on a central server, flip this identity.\nWhen the Runner’s action phase ends, gain 1[credit].\nFlip side:\nWhen you flip this identity to this side during a run on HQ, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ.\nWhen the Runner’s discard phase ends, flip this identity.\nFlip side:\nWhen you flip this identity to this side during a run on R&D, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ.\nWhen the Runner’s discard phase ends, flip this identity.\nFlip side:\nWhen you flip this identity to this side during a run on Archives, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ.\nWhen the Runner’s discard phase ends, flip this identity.",
+    "title": "Méliès U: Only the Brightest",
+    "type_code": "identity",
+    "uniqueness": false
+  },
+  {
     "code": "36053",
     "cost": 3,
     "deck_limit": 3,
