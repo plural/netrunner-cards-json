@@ -2,7 +2,6 @@
   "compilerOptions": {
     "baseUrl": "./",
     "isolatedModules": false,
-    "module": "commonjs",
     "strictPropertyInitialization": false,
     "typeRoots": ["../node_modules/@types"]
   },

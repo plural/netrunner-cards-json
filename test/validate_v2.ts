@@ -1,13 +1,13 @@
 import fs from "fs";
 import { basename, resolve } from "path";
-import Ajv2020 from "ajv/dist/2020"
-import { getCardCyclesV2Json, getCardsV2Json, getCardSetsV2Json, getCardSetTypesV2Json, getCardSubtypesV2Json, getCardTypesV2Json, getCardLayoutsV2Json, getFactionsV2Json, getSidesV2Json, textToId } from "../src/index";
+import { Ajv2020 } from "ajv/dist/2020.js"
+import { getCardCyclesV2Json, getCardsV2Json, getCardSetsV2Json, getCardSetTypesV2Json, getCardSubtypesV2Json, getCardTypesV2Json, getCardLayoutsV2Json, getFactionsV2Json, getSidesV2Json, textToId } from "../dist/index.js";
 import { expect } from "chai";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
 function validateAgainstSchema(schema_file, data) {
-  const schema_path = resolve(__dirname, "../schema/v2", schema_file);
+  const schema_path = resolve(import.meta.dirname, "../schema/v2", schema_file);
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
   validate(data);
@@ -31,7 +31,7 @@ const cardSetIds = new Set<string>(cardSets.map(s => s.id));
 const cards = getCardsV2Json();
 const cardIds = new Set<string>(getCardsV2Json().map(c => c.id));
 
-const formatPoolDir = resolve(__dirname, "../v2/formats");
+const formatPoolDir = resolve(import.meta.dirname, "../v2/formats");
 const formatPoolFiles =
   fs.readdirSync(formatPoolDir, { withFileTypes: true })
     .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
@@ -45,7 +45,7 @@ for (const format of formatsByFilename.values()) {
   formatIds.add(format.id);
 }
 
-const cardPoolDir = resolve(__dirname, "../v2/card_pools");
+const cardPoolDir = resolve(import.meta.dirname, "../v2/card_pools");
 const cardPoolFiles =
   fs.readdirSync(cardPoolDir, { withFileTypes: true })
     .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
@@ -60,7 +60,7 @@ cardPoolFiles.forEach(file => {
   });
 });
 
-const restrictionsDir = resolve(__dirname, "../v2/restrictions");
+const restrictionsDir = resolve(import.meta.dirname, "../v2/restrictions");
 const formatsForRestrictions =
   fs.readdirSync(restrictionsDir, { withFileTypes: true })
     .filter(dirent => dirent.isDirectory())
@@ -167,7 +167,7 @@ describe('Card Sets', () => {
 });
 
 describe('Cards', () => {
-  const schema_path = resolve(__dirname, "../schema/v2/cards_schema.json");
+  const schema_path = resolve(import.meta.dirname, "../schema/v2/cards_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
 
@@ -190,7 +190,7 @@ describe('Cards', () => {
 });
 
 describe('Printings', () => {
-  const printingDir = resolve(__dirname, "../v2/printings");
+  const printingDir = resolve(import.meta.dirname, "../v2/printings");
   const printingFiles =
     fs.readdirSync(printingDir, { withFileTypes: true })
       .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
@@ -205,7 +205,7 @@ describe('Printings', () => {
     cardsById.set(c.id, c);
   });
 
-  const schema_path = resolve(__dirname, "../schema/v2/printings_schema.json");
+  const schema_path = resolve(import.meta.dirname, "../schema/v2/printings_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
   it('printing files pass schema validation', () => {
@@ -268,7 +268,7 @@ describe('Printings', () => {
 });
 
 describe('Card Pools', () => {
-  const schema_path = resolve(__dirname, "../schema/v2/card_pools_schema.json");
+  const schema_path = resolve(import.meta.dirname, "../schema/v2/card_pools_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
   it('card pool files pass schema validation', () => {
@@ -367,7 +367,7 @@ describe('Card Pools', () => {
 });
 
 describe('Restrictions', () => {
-  const schema_path = resolve(__dirname, "../schema/v2/restrictions_schema.json");
+  const schema_path = resolve(import.meta.dirname, "../schema/v2/restrictions_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
 
@@ -506,7 +506,7 @@ describe('Restrictions', () => {
 });
 
 describe('Formats', () => {
-  const schema_path = resolve(__dirname, "../schema/v2/formats_schema.json");
+  const schema_path = resolve(import.meta.dirname, "../schema/v2/formats_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
   it('format files pass schema validation', () => {
