@@ -9,7 +9,7 @@ import fs from 'fs';
 import { resolve } from 'path';
 import commandLineArgs from 'command-line-args';
 import prettier from 'prettier';
-import { getMwlJson, getRestrictionsV2Json, textToId, getPrintingsV2Json } from './index';
+import { getMwlJson, getRestrictionsV2Json, textToId, getPrintingsV2Json } from './index.js';
 
 const optionDefinitions = [
   { name: 'source_code', description: 'Source code for the new banlist.', alias: 's', type: String, defaultValue: '' },
@@ -52,16 +52,16 @@ async function formatJSON(text: any) {
 
 function writeJsonToFile(obj, filename) {
   formatJSON(obj).then((content) => {
-      fs.writeFile(
-          resolve(filename),
-          content,
-          function (err) {
-              if (err) {
-                  console.log(`Could not write to ${filename}: ${err}`);
-                  process.exit(1);
-              }
-          },
-      );
+    fs.writeFile(
+      resolve(filename),
+      content,
+      function (err) {
+        if (err) {
+          console.log(`Could not write to ${filename}: ${err}`);
+          process.exit(1);
+        }
+      },
+    );
   });
 }
 
@@ -91,9 +91,9 @@ function findMwlByCode(mwls: any, code: string): any {
 function convertObjectToMap<T>(obj: { [key: number]: T }): Map<string, T> {
   const map = new Map<string, T>();
   for (const key in obj) {
-      if (Object.prototype.hasOwnProperty.call(obj, key)) {
-          map.set(key, obj[key]);
-      }
+    if (Object.prototype.hasOwnProperty.call(obj, key)) {
+      map.set(key, obj[key]);
+    }
   }
   return map;
 }
@@ -101,9 +101,9 @@ function convertObjectToMap<T>(obj: { [key: number]: T }): Map<string, T> {
 function filterMapKeys<T, U>(sourceMap: Map<T, U>, keysToFilterOut: T[]): Map<T, U> {
   const filteredMap = new Map<T, U>();
   for (const [key, value] of sourceMap) {
-      if (!keysToFilterOut.includes(key)) {
-          filteredMap.set(key, value);
-      }
+    if (!keysToFilterOut.includes(key)) {
+      filteredMap.set(key, value);
+    }
   }
   return filteredMap;
 }

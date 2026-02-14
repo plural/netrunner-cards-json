@@ -1,6 +1,7 @@
 {
   "name": "@project-nisei/netrunner-cards-json",
   "version": "1.0.2",
+  "type": "module",
   "description": "Card data for the Android: Netrunner card game.",
   "repository": "https://github.com/NetrunnerDB/netrunner-cards-json",
   "main": "dist/index.js",
@@ -10,9 +11,9 @@
     "format-check": "prettier --no-color --check '{{**,.}/*.json,.*.json,*.json}'",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "prepare": "husky install",
-    "test": "mocha -R list -r ts-node/register test/*.ts test/**/*.ts",
+    "test": "mocha -R list -r ts-node/esm test/*.ts test/**/*.ts",
     "update-locales": "tsc && node dist/update-locales.js",
-    "watch": "mocha -r ts-node/register --extensions ts --watch --watch-files src,test test/**/*.ts"
+    "watch": "mocha -r ts-node/esm --extensions ts --watch --watch-files src,test test/**/*.ts"
   },
   "author": "",
   "license": "ISC",

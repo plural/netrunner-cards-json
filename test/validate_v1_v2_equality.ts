@@ -9,7 +9,7 @@ import {
   getPrintingsV2Json,
   getMwlJson,
   textToId
-} from "../src/index";
+} from "../dist/index.js";
 import { expect } from "chai";
 
 describe('Card Cycles v1/v2', () => {
@@ -90,8 +90,8 @@ describe('Cards v1/v2 equality', () => {
   // cards with copies or progressions are considered distinct cards in v1 but not v2.
   it('correct number of cards', () => {
     const cardCopies: number = Array.from(v2CardsByTitle.values())
-        .filter(c => c.layout_id && (c.layout_id == 'copy' || c.layout_id == 'progression')) // TODO - remove c.layout_id &&
-        .reduce((count, c) => count + c.faces.length, 0);
+      .filter(c => c.layout_id && (c.layout_id == 'copy' || c.layout_id == 'progression')) // TODO - remove c.layout_id &&
+      .reduce((count, c) => count + c.faces.length, 0);
     expect(v1CardsByTitle.size).to.equal(v2CardsByTitle.size + cardCopies);
   });
 
@@ -102,7 +102,7 @@ describe('Cards v1/v2 equality', () => {
         return;
       }
       expect(v1CardsByTitle.get(title).type_code, `card_type_id mismatch for ${title}`)
-          .to.equal(v2CardsByTitle.get(title).card_type_id.replace(v2CardsByTitle.get(title).side_id + '_', ''));
+        .to.equal(v2CardsByTitle.get(title).card_type_id.replace(v2CardsByTitle.get(title).side_id + '_', ''));
     });
   });
 
@@ -142,12 +142,12 @@ describe('Cards v1/v2 equality', () => {
       const v1 = v1CardsByTitle.get(title);
       const v2 = v2CardsByTitle.get(title);
       let v2Text;
-      switch(v2.layout_id) {
+      switch (v2.layout_id) {
         case 'flip':
           v2Text = v2.text + (v2.faces[0].text ? '\nFlip side:\n' + v2.faces[0].text : '');
           break;
         case 'facade':
-          v2Text = v2.text + v2.faces.map((s, i) => s.text ? `\nSide ${i+1}: ${s.text}` : '').join('');
+          v2Text = v2.text + v2.faces.map((s, i) => s.text ? `\nSide ${i + 1}: ${s.text}` : '').join('');
           break;
         default:
           v2Text = v2.text;
@@ -165,12 +165,12 @@ describe('Cards v1/v2 equality', () => {
       const v1 = v1CardsByTitle.get(title);
       const v2 = v2CardsByTitle.get(title);
       let v2SText;
-      switch(v2.layout_id) {
+      switch (v2.layout_id) {
         case 'flip':
           v2SText = v2.stripped_text + (v2.faces[0].stripped_text ? ' Flip side: ' + v2.faces[0].stripped_text : '');
           break;
         case 'facade':
-          v2SText = v2.stripped_text + v2.faces.map((s, i) => s.stripped_text ? ` Side ${i+1}: ${s.stripped_text}` : '').join('');
+          v2SText = v2.stripped_text + v2.faces.map((s, i) => s.stripped_text ? ` Side ${i + 1}: ${s.stripped_text}` : '').join('');
           break;
         default:
           v2SText = v2.stripped_text;
@@ -211,7 +211,7 @@ describe('Cards v1/v2 equality', () => {
         return;
       }
       expect(v1CardsByTitle.get(title).faction_code, `faction_id mismatch for ${title}`)
-          .to.equal(v2CardsByTitle.get(title).faction_id.replace('_', '-'));
+        .to.equal(v2CardsByTitle.get(title).faction_id.replace('_', '-'));
     });
 
   });
@@ -310,7 +310,7 @@ describe('Printings v1/v2 equality', () => {
         return;
       }
       expect(packsByCode.get(v1.pack_code),
-          `Card set mismatch for printing id ${code} for ${v1CardsByCode.get(code).title}`)
+        `Card set mismatch for printing id ${code} for ${v1CardsByCode.get(code).title}`)
         .to.equal(setsById.get(printingsById.get(code).card_set_id));
     });
   });
@@ -378,7 +378,7 @@ describe('MWLs v1/v2', () => {
     printingsById.set(p.id, p);
   });
   const printingsByCardId = new Map<string, any>();
-  getCardsV2Json ().forEach(c => {
+  getCardsV2Json().forEach(c => {
     printingsByCardId.set(c.id, []);
   });
   printings.forEach(p => {
@@ -389,19 +389,19 @@ describe('MWLs v1/v2', () => {
   function v1ToBanned(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
     return arr.filter(card => card[1].deck_limit == 0)
-              .map(card => card[0]).sort();
+      .map(card => card[0]).sort();
   }
   // Turns a v1 mwl json entry into an array of printing codes of its restricted cards
   function v1ToRestricted(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
     return arr.filter(card => card[1].is_restricted)
-              .map(card => card[0]).sort();
+      .map(card => card[0]).sort();
   }
   // Turns a v1 mwl json entry into an object mapping universal faction costs to the array of printing codes of affected cards
   function v1ToUniversalFactionCost(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
     const obj = {};
-    arr.filter(card => card[1].universal_faction_cost).sort().forEach(function(card) {
+    arr.filter(card => card[1].universal_faction_cost).sort().forEach(function (card) {
       if (!obj[card[1].universal_faction_cost]) {
         obj[card[1].universal_faction_cost] = [];
       }
@@ -413,7 +413,7 @@ describe('MWLs v1/v2', () => {
   function v1ToGlobalPenalty(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
     const obj = {};
-    arr.filter(card => card[1].global_penalty).sort().forEach(function(card) {
+    arr.filter(card => card[1].global_penalty).sort().forEach(function (card) {
       if (!obj[card[1].global_penalty]) {
         obj[card[1].global_penalty] = [];
       }

@@ -1,12 +1,12 @@
 import fs from "fs";
-import {resolve} from "path";
+import { resolve } from "path";
 
 function makeV1Reader(filename: string) {
   let json: Record<string, any>[] = [];
 
-  return function(): Record<string, any>[] {
+  return function (): Record<string, any>[] {
     if (json.length === 0) {
-      const path = resolve(__dirname, '..', filename + '.json');
+      const path = resolve(import.meta.dirname, '..', filename + '.json');
       json = JSON.parse(fs.readFileSync(path, 'utf-8'));
     }
     return json;
@@ -16,9 +16,9 @@ function makeV1Reader(filename: string) {
 function makeV2Reader(filename: string) {
   let json: Record<string, any>[] = [];
 
-  return function(): Record<string, any>[] {
+  return function (): Record<string, any>[] {
     if (json.length === 0) {
-      const path = resolve(__dirname, '../v2', filename + '.json');
+      const path = resolve(import.meta.dirname, '../v2', filename + '.json');
       json = JSON.parse(fs.readFileSync(path, 'utf-8'));
     }
     return json;
@@ -62,12 +62,12 @@ export const getTypesJson = makeV1Reader('types');
 export function getPackFilesJson(): Map<string, Record<string, any>[]> {
   const PACKS_JSON = new Map<string, Record<string, any>[]>();
 
-  const directory = resolve(__dirname, '..', 'pack');
+  const directory = resolve(import.meta.dirname, '..', 'pack');
   fs.readdirSync(directory).forEach(file => {
     if (file.endsWith('.json')) {
       const path = resolve(directory, file);
       const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
-                              PACKS_JSON.set(file.replace(".json", ""), json);
+      PACKS_JSON.set(file.replace(".json", ""), json);
     }
   });
   return PACKS_JSON;
@@ -76,7 +76,7 @@ export function getPackFilesJson(): Map<string, Record<string, any>[]> {
 export function getCardsJson(): Record<string, any>[] {
   const CARDS_JSON: Record<string, any>[] = [];
 
-  const directory = resolve(__dirname, '..', 'pack');
+  const directory = resolve(import.meta.dirname, '..', 'pack');
   fs.readdirSync(directory).forEach(file => {
     if (file.endsWith('.json')) {
       const path = resolve(directory, file);
@@ -90,7 +90,7 @@ export function getCardsJson(): Record<string, any>[] {
 export function getCardsV2Json(): Record<string, any>[] {
   const CARDS_JSON: Record<string, any>[] = [];
 
-  const directory = resolve(__dirname, '..', 'v2/cards');
+  const directory = resolve(import.meta.dirname, '..', 'v2/cards');
   fs.readdirSync(directory).forEach(file => {
     if (file.endsWith('.json')) {
       const path = resolve(directory, file);
@@ -104,7 +104,7 @@ export function getCardsV2Json(): Record<string, any>[] {
 export function getPrintingsV2Json(): Record<string, any>[] {
   const PRINTINGS_JSON: Record<string, any>[] = [];
 
-  const printingDir = resolve(__dirname, "../v2/printings");
+  const printingDir = resolve(import.meta.dirname, "../v2/printings");
   const printingFiles =
     fs.readdirSync(printingDir, { withFileTypes: true })
       .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
@@ -120,7 +120,7 @@ export function getPrintingsV2Json(): Record<string, any>[] {
 export function getRestrictionsV2Json(): Record<string, Record<string, any>> {
   const RESTRICTIONS_JSON: Record<string, Record<string, any>> = {};
 
-  const restrictionDir = resolve(__dirname, "../v2/restrictions");
+  const restrictionDir = resolve(import.meta.dirname, "../v2/restrictions");
   const restrictionDirs =
     fs.readdirSync(restrictionDir, { withFileTypes: true })
       .filter(dirent => dirent.isDirectory())
@@ -128,7 +128,7 @@ export function getRestrictionsV2Json(): Record<string, Record<string, any>> {
 
   restrictionDirs.forEach(format => {
     const R_JSON: Record<string, any>[] = [];
-    const dir = resolve(__dirname, "../v2/restrictions/" + format);
+    const dir = resolve(import.meta.dirname, "../v2/restrictions/" + format);
     const restrictionFiles =
       fs.readdirSync(dir, { withFileTypes: true })
         .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))

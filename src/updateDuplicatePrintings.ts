@@ -57,7 +57,7 @@ source_printings.forEach(p => {
 });
 
 // Load all the v2 card files in the source set.
-const v2CardsDir = resolve(__dirname, '..', 'v2/cards');
+const v2CardsDir = resolve(import.meta.dirname, '..', 'v2/cards');
 cardIds.forEach(card_id => {
     const path = resolve(v2CardsDir, `${card_id}.json`);
     const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
@@ -65,7 +65,7 @@ cardIds.forEach(card_id => {
 });
 
 // Find all the duplicate printings.
-const printingDir = resolve(__dirname, '..', 'v2/printings');
+const printingDir = resolve(import.meta.dirname, '..', 'v2/printings');
 fs.readdirSync(printingDir).forEach(file => {
     if (file.endsWith('.json')) {
         const path = resolve(printingDir, file);
@@ -81,7 +81,7 @@ fs.readdirSync(printingDir).forEach(file => {
 });
 
 // Iterate over all the v1 pack files and identify the ones that need updates.
-const packsDir = resolve(__dirname, '..', 'pack');
+const packsDir = resolve(import.meta.dirname, '..', 'pack');
 fs.readdirSync(packsDir).forEach(file => {
     if (file.endsWith('.json')) {
         const path = resolve(packsDir, file);
@@ -109,8 +109,8 @@ packsNeedingUpdates.forEach(p => {
             printing.stripped_text = newCard.stripped_text;
             // Note: this only handles single flip cards, not cards with more than 2 faces.
             if ('faces' in newCard) {
-              printing.text  = `${printing.text}\nFlip side:\n${newCard.faces[0].text}`;
-              printing.stripped_text  = `${printing.stripped_text} Flip side: ${newCard.faces[0].stripped_text}`;
+                printing.text = `${printing.text}\nFlip side:\n${newCard.faces[0].text}`;
+                printing.stripped_text = `${printing.stripped_text} Flip side: ${newCard.faces[0].stripped_text}`;
             }
         }
         v1.push(printing);
