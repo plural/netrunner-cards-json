@@ -42,6 +42,27 @@
     "uniqueness": false
   },
   {
+    "base_link": 0,
+    "code": "36009",
+    "deck_limit": 1,
+    "faction_code": "criminal",
+    "flavor": "“I knew from the start this case was gonna be the end of me…”",
+    "illustrator": "Marlon Ruiz",
+    "influence_limit": 15,
+    "keywords": "Digital",
+    "minimum_deck_size": 45,
+    "pack_code": "vp",
+    "position": 9,
+    "quantity": 1,
+    "side_code": "runner",
+    "stripped_text": "Once per turn -> click, 1 credit: Draw 1 card and remove 1 tag.",
+    "stripped_title": "Virtual Intelligence, P.I.: \"But You Can Call Me Vic\"",
+    "text": "Once per turn → [click], <strong>1[credit]:</strong> Draw 1 card and remove 1 tag.",
+    "title": "Virtual Intelligence, P.I.: “But You Can Call Me Vic”",
+    "type_code": "identity",
+    "uniqueness": false
+  },
+  {
     "code": "36016",
     "cost": 1,
     "deck_limit": 3,
