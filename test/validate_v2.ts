@@ -199,10 +199,7 @@ describe('Cards', () => {
 
   it('have valid ids', () => {
     cards.forEach(card => {
-      // TODO(plural): Decide on a proper fix for `Na'Not'K`s id and remove this exception.
-      if (card.id != 'na_not_k') {
-        expect(card.id, `Card ${card.title} has invalid id ${card.id}`).to.equal(textToId(card.title));
-      }
+      expect(card.id, `Card ${card.title} has invalid id ${card.id}`).to.equal(textToId(card.title));
     });
   });
 

@@ -32,8 +32,8 @@ export function textToId(text: string): string {
     .normalize('NFD')
     // remove non-ASCII
     .replace(/\P{ASCII}/gu, '')
-    // replace '\w followed by a space or end-of-line with \w and the space/end match.
-    .replace(/'(\w)(\s|$)/gu, '$1$2')
+    // replace apostrophes followed by s with just the s to avoid ids like aesop_s_pawnshop.
+    .replace(/'([s])(\s|$)/gu, '$1$2')
     // split along space or punction.
     .split(/[\s\p{P}]+/u)
     // exclude any elements that are empty when trimmed to avoid trailing _ for the join.
