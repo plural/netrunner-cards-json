@@ -40,6 +40,26 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "hiram_0mission_svensson_shadow_of_the_past",
+    "card_set_id": "vantage_point",
+    "flavor": "“Truth runs deeper than power can ever reach.”",
+    "id": "36017",
+    "illustrator": "Marlon Ruiz",
+    "position": 17,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "melies_city_luxury_line",
+    "card_set_id": "vantage_point",
+    "flavor": "“Welcome aboard, Moonsilver Class members. Our express stops today are at New Lovell, Heinlein, and Imamura Station.”",
+    "id": "36026",
+    "illustrator": "Mahardika Wahyu (Polar Engine)",
+    "position": 26,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "synchrocyclotron",
     "card_set_id": "vantage_point",
     "flavor": "The cyclotron’s utility was discovered after its magnets quenched during load testing, resulting in 1,600 tons of liquid helium venting directly into Heinlein city tenements and an anomalous 13-second local time loss. An apology was issued, funerals were covered, and funding was rerouted to recreate the error at scale.",
@@ -100,6 +120,15 @@
     "id": "36063",
     "illustrator": "Oliver Morit",
     "position": 63,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "let_them_dream",
+    "card_set_id": "vantage_point",
+    "id": "36066",
+    "illustrator": "Ed Mattinian",
+    "position": 66,
     "quantity": 3,
     "released_by": "null_signal_games"
   }

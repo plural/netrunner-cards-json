@@ -8,7 +8,6 @@
   "influence_limit": 15,
   "is_unique": false,
   "minimum_deck_size": 45,
-  "narrative_text": "",
   "pronouns": "it/its",
   "side_id": "runner",
   "stripped_text": "Once per turn -> click, 1 credit: Draw 1 card and remove 1 tag.",
