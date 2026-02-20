@@ -91,5 +91,12 @@
     "format_id": "startup",
     "id": "startup_elevation",
     "name": "Startup (Elevation)"
+  },
+  {
+    "card_cycle_ids": ["elevation", "system_gateway", "vantage_point"],
+    "card_set_ids": ["elevation", "system_gateway", "vantage_point"],
+    "format_id": "startup",
+    "id": "startup_vantage_point",
+    "name": "Startup (Vantage Point)"
   }
 ]

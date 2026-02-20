@@ -1995,5 +1995,18 @@
     "code": "standard-ban-list-26-03",
     "date_start": "2026-03-13",
     "name": "Standard Ban List 26.03"
+  },
+  {
+    "cards": {
+      "30006": { "deck_limit": 0 },
+      "30040": { "deck_limit": 0 },
+      "30051": { "deck_limit": 0 },
+      "35045": { "deck_limit": 0 },
+      "36066": { "deck_limit": 0 }
+    },
+    "code": "startup-balance-update-26-03-for-classic-only",
+    "date_start": "2026-03-02",
+    "name": "Startup Balance Update 26.03 (ignore active date)",
+    "subtypes": { "current": { "deck_limit": 0 } }
   }
 ]
