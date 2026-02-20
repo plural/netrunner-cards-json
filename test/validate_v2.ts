@@ -477,9 +477,14 @@ describe('Restrictions', () => {
   it('are present in format files', () => {
     const restrictionIdsFromFormats = new Set<string>();
 
+    const snapshotIds = new Set<string>();
     // Get all formats and their listed snapshots.
     formatsByFilename.forEach((format) => {
       format.snapshots.forEach(snapshot => {
+        if (snapshotIds.has(snapshot.id)) {
+          expect.fail(`Duplicate snapshot id found: ${snapshot.id}`);
+        }
+        snapshotIds.add(snapshot.id);
         if ('restriction_id' in snapshot) {
           restrictionIdsFromFormats.add(snapshot.restriction_id);
         }
