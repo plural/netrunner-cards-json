@@ -492,7 +492,8 @@ describe('Restrictions', () => {
         'startup_ban_list_24_01_for_classic_only',
         'startup_ban_list_24_09_for_classic_only',
         'startup_balance_update_25_04_for_classic_only',
-        'startup_balance_update_25_11_for_classic_only'
+        'startup_balance_update_25_11_for_classic_only',
+        'startup_balance_update_26_03_for_classic_only'
       ]);
 
     restrictionIds.forEach((restrictionId) => {
