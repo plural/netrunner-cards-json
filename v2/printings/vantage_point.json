@@ -20,6 +20,16 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "stick_and_poke",
+    "card_set_id": "vantage_point",
+    "flavor": "In the Net, it takes a special effort <em>not</em> to sanitize your equipment. But they manage anyway.",
+    "id": "36008",
+    "illustrator": "Cat Shen",
+    "position": 8,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "virtual_intelligence_p_i_you_can_call_me_vic",
     "card_set_id": "vantage_point",
     "flavor": "“I knew from the start this case was gonna be the end of me…”",
@@ -94,6 +104,16 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "magistrate_revontulet",
+    "card_set_id": "vantage_point",
+    "flavor": "“I do not take kindly to uninvited guests in my reality. Have you at least brought a gift?”",
+    "id": "36048",
+    "illustrator": "Grace Zhu",
+    "position": 48,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "nihilo_agent",
     "card_set_id": "vantage_point",
     "flavor": "–ect acquir– ₰ –istory dele–",
@@ -120,6 +140,16 @@
     "id": "36063",
     "illustrator": "Oliver Morit",
     "position": 63,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "flagship",
+    "card_set_id": "vantage_point",
+    "flavor": "“Gilded lily? Yeah, you can get one in the gift shop.”",
+    "id": "36064",
+    "illustrator": "Dimik",
+    "position": 64,
     "quantity": 3,
     "released_by": "null_signal_games"
   },
