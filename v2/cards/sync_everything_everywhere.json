@@ -5,6 +5,7 @@
   "faces": [
     {
       "stripped_text": "click: Flip this identity. You may pay 2 credits fewer when spending a click to trash a resource (not through a card ability).",
+      "subtypes": ["division"],
       "text": "[click]: Flip this identity.\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability)."
     }
   ],
