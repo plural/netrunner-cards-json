@@ -49,6 +49,12 @@
       "date_start": "2025-07-31",
       "id": "eternal_7",
       "restriction_id": "eternal_points_list_25_07"
+    },
+    {
+      "card_pool_id": "eternal",
+      "date_start": "2026-03-02",
+      "id": "eternal_7",
+      "restriction_id": "eternal_points_list_26_03"
     }
   ]
 }
