@@ -40,6 +40,26 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "kompromat",
+    "card_set_id": "vantage_point",
+    "flavor": "It’s easier to dodge a bullet than an envelope with your name on it.",
+    "id": "36010",
+    "illustrator": "Scott Uminga",
+    "position": 10,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "tailgate",
+    "card_set_id": "vantage_point",
+    "flavor": "In the age of unparalleled digital security, never underestimate the power of human error.",
+    "id": "36012",
+    "illustrator": "Oliver Morit",
+    "position": 12,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "underdome_irregulars",
     "card_set_id": "vantage_point",
     "flavor": "“Got me out of a jam, so I lend it a hand sometimes. Same with most of us: favors, debts, blackmail, whatever. Point is, when Vic calls, you pick up.”",
@@ -57,6 +77,26 @@
     "illustrator": "Marlon Ruiz",
     "position": 17,
     "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "beta_build",
+    "card_set_id": "vantage_point",
+    "flavor": "“I donʼt need a forever answer, I need a <em>now</em> answer.”",
+    "id": "36019",
+    "illustrator": "Ferenc Patkós",
+    "position": 19,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "stowaway",
+    "card_set_id": "vantage_point",
+    "flavor": "Not only does life exist in the Net, it adapts to our presence and thrives.",
+    "id": "36024",
+    "illustrator": "Elwin \"Jakuza\" Rumplmair",
+    "position": 24,
+    "quantity": 3,
     "released_by": "null_signal_games"
   },
   {
@@ -104,6 +144,16 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "witch_hunt",
+    "card_set_id": "vantage_point",
+    "flavor": "Of the truth, only ashes remained. Of his former life, even less.",
+    "id": "36047",
+    "illustrator": "Alief Rusdiatama (Polar Engine)",
+    "position": 47,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "magistrate_revontulet",
     "card_set_id": "vantage_point",
     "flavor": "“I do not take kindly to uninvited guests in my reality. Have you at least brought a gift?”",
@@ -124,12 +174,52 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "paywall",
+    "card_set_id": "vantage_point",
+    "flavor": "“Yeah, I previously worked at a Weyland shop, but the boss had it out for me. Creative differences.”\n—Isolde Muraro, ice architect",
+    "id": "36052",
+    "illustrator": "Ed Mattinian",
+    "position": 52,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "flood_the_market",
     "card_set_id": "vantage_point",
     "flavor": "There is a tipping point where an ad becomes so omnipresent, it’s subliminal.",
     "id": "36053",
     "illustrator": "Dimik",
     "position": 53,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "event_horizon",
+    "card_set_id": "vantage_point",
+    "flavor": "Even light cannot escape. What makes you think <em>you</em> can?",
+    "id": "36058",
+    "illustrator": "Ferenc Patkós",
+    "position": 58,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "flywheel",
+    "card_set_id": "vantage_point",
+    "flavor": "“The metakinetic energy of an incursion is an asset. Direct the invader’s movement into a dynamic system, and you may be surprised how much the cluster can extract from it.”\n—Moira Virtue, Ice Engineering, MU (formerly of KKU)",
+    "id": "36059",
+    "illustrator": "Ed Mattinian",
+    "position": 59,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "myoshu",
+    "card_set_id": "vantage_point",
+    "flavor": "There is no victory which is not also beauty.",
+    "id": "36061",
+    "illustrator": "Adam S. Doyle",
+    "position": 61,
     "quantity": 3,
     "released_by": "null_signal_games"
   },
