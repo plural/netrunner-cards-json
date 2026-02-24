@@ -60,6 +60,25 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "borrowed_goods",
+    "card_set_id": "vantage_point",
+    "flavor": "“Nice job, kid. Now lose the tail.”",
+    "id": "36013",
+    "illustrator": "Oliver Morit",
+    "position": 13,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "rotary",
+    "card_set_id": "vantage_point",
+    "id": "36014",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 14,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "underdome_irregulars",
     "card_set_id": "vantage_point",
     "flavor": "“Got me out of a jam, so I lend it a hand sometimes. Same with most of us: favors, debts, blackmail, whatever. Point is, when Vic calls, you pick up.”",
@@ -86,6 +105,16 @@
     "id": "36019",
     "illustrator": "Ferenc Patkós",
     "position": 19,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "touchstone",
+    "card_set_id": "vantage_point",
+    "flavor": "I know who I am.",
+    "id": "36021",
+    "illustrator": "Si F Sweetman",
+    "position": 21,
     "quantity": 3,
     "released_by": "null_signal_games"
   },
@@ -131,6 +160,15 @@
     "illustrator": "Kira L. Nguyen",
     "position": 36,
     "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "knowledge_seeker",
+    "card_set_id": "vantage_point",
+    "id": "36040",
+    "illustrator": "Anthony Hutchings",
+    "position": 40,
+    "quantity": 3,
     "released_by": "null_signal_games"
   },
   {
