@@ -182,6 +182,26 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "esca",
+    "card_set_id": "vantage_point",
+    "flavor": "“touch it for all I care! just don’t post a sob story if you get bit”\n—luc3ne, in the Rig Kids ‘new-runners’ channel",
+    "id": "36038",
+    "illustrator": "Júlio Rocha",
+    "position": 38,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ezam",
+    "card_set_id": "vantage_point",
+    "flavor": "A web that only tightens the more you’re lost within it.",
+    "id": "36039",
+    "illustrator": "Benjamin Giletti",
+    "position": 39,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "knowledge_seeker",
     "card_set_id": "vantage_point",
     "id": "36040",
@@ -197,6 +217,16 @@
     "id": "36042",
     "illustrator": "Júlio Rocha",
     "position": 42,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "the_red_room",
+    "card_set_id": "vantage_point",
+    "flavor": "The equipment for asset return and processing is bespoke, and can be set up in less than an hour.",
+    "id": "36045",
+    "illustrator": "Benjamin Giletti",
+    "position": 45,
     "quantity": 3,
     "released_by": "null_signal_games"
   },
