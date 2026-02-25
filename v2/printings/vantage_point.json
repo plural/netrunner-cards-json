@@ -168,6 +168,16 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "vertigo",
+    "card_set_id": "vantage_point",
+    "flavor": "It was only a moment for you; you took no notice.",
+    "id": "36031",
+    "illustrator": "Ed Mattinian",
+    "position": 31,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "melies_u_only_the_brightest",
     "card_set_id": "vantage_point",
     "faces": [
