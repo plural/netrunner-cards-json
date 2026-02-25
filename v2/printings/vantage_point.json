@@ -79,6 +79,16 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "baker",
+    "card_set_id": "vantage_point",
+    "flavor": "Time for a key change.",
+    "id": "36015",
+    "illustrator": "Adam S. Doyle",
+    "position": 15,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "underdome_irregulars",
     "card_set_id": "vantage_point",
     "flavor": "“Got me out of a jam, so I lend it a hand sometimes. Same with most of us: favors, debts, blackmail, whatever. Point is, when Vic calls, you pick up.”",
@@ -149,6 +159,15 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "ansel_2_0",
+    "card_set_id": "vantage_point",
+    "id": "36028",
+    "illustrator": "Benjamin Giletti",
+    "position": 28,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "melies_u_only_the_brightest",
     "card_set_id": "vantage_point",
     "faces": [
@@ -168,6 +187,16 @@
     "id": "36040",
     "illustrator": "Anthony Hutchings",
     "position": 40,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "vicsek",
+    "card_set_id": "vantage_point",
+    "flavor": "BZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ",
+    "id": "36042",
+    "illustrator": "Júlio Rocha",
+    "position": 42,
     "quantity": 3,
     "released_by": "null_signal_games"
   },
