@@ -119,12 +119,31 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "methuselah",
+    "card_set_id": "vantage_point",
+    "id": "36020",
+    "illustrator": "Marlon Ruiz",
+    "position": 20,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "touchstone",
     "card_set_id": "vantage_point",
     "flavor": "I know who I am.",
     "id": "36021",
     "illustrator": "Si F Sweetman",
     "position": 21,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "read_write_share",
+    "card_set_id": "vantage_point",
+    "flavor": "Take what you need. Leave what you can.",
+    "id": "36022",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 22,
     "quantity": 3,
     "released_by": "null_signal_games"
   },
@@ -281,6 +300,16 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "grubber",
+    "card_set_id": "vantage_point",
+    "flavor": "gimme gimme gimme gimme gimme gimme",
+    "id": "36050",
+    "illustrator": "Scott Uminga",
+    "position": 50,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "paywall",
     "card_set_id": "vantage_point",
     "flavor": "“Yeah, I previously worked at a Weyland shop, but the boss had it out for me. Creative differences.”\n—Isolde Muraro, ice architect",
@@ -297,6 +326,16 @@
     "id": "36053",
     "illustrator": "Dimik",
     "position": 53,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hype_machine",
+    "card_set_id": "vantage_point",
+    "flavor": "Every season is preview season.",
+    "id": "36055",
+    "illustrator": "Matheus Calza",
+    "position": 55,
     "quantity": 3,
     "released_by": "null_signal_games"
   },
