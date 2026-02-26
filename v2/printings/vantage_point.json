@@ -168,6 +168,16 @@
     "released_by": "null_signal_games"
   },
   {
+    "card_id": "vertigo",
+    "card_set_id": "vantage_point",
+    "flavor": "It was only a moment for you; you took no notice.",
+    "id": "36031",
+    "illustrator": "Ed Mattinian",
+    "position": 31,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
     "card_id": "melies_u_only_the_brightest",
     "card_set_id": "vantage_point",
     "faces": [
@@ -179,6 +189,26 @@
     "illustrator": "Kira L. Nguyen",
     "position": 36,
     "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "esca",
+    "card_set_id": "vantage_point",
+    "flavor": "“touch it for all I care! just don’t post a sob story if you get bit”\n—luc3ne, in the Rig Kids ‘new-runners’ channel",
+    "id": "36038",
+    "illustrator": "Júlio Rocha",
+    "position": 38,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ezam",
+    "card_set_id": "vantage_point",
+    "flavor": "A web that only tightens the more you’re lost within it.",
+    "id": "36039",
+    "illustrator": "Benjamin Giletti",
+    "position": 39,
+    "quantity": 3,
     "released_by": "null_signal_games"
   },
   {
@@ -197,6 +227,16 @@
     "id": "36042",
     "illustrator": "Júlio Rocha",
     "position": 42,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "the_red_room",
+    "card_set_id": "vantage_point",
+    "flavor": "The equipment for asset return and processing is bespoke, and can be set up in less than an hour.",
+    "id": "36045",
+    "illustrator": "Benjamin Giletti",
+    "position": 45,
     "quantity": 3,
     "released_by": "null_signal_games"
   },
