@@ -26,7 +26,8 @@
       "spin",
       "system_core_2019",
       "system_gateway",
-      "system_update_2021"
+      "system_update_2021",
+      "vantage_point",
     ],
     "card_set_ids": [
       "23_seconds",
@@ -99,6 +100,7 @@
       "uprising",
       "uprising_booster_pack",
       "upstalk",
+      "vantage_point",
       "what_lies_ahead",
       "whispers_in_nalubaale"
     ],
