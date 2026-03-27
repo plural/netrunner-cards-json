@@ -11,7 +11,7 @@
     "format-check": "prettier --no-color --check '{{**,.}/*.json,.*.json,*.json}'",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "prepare": "husky",
-    "test": "mocha -R list -r ts-node/esm test/*.ts test/**/*.ts",
+    "test": "tsc && mocha -R list -r ts-node/esm test/*.ts test/**/*.ts",
     "update-locales": "tsc && node dist/update-locales.js",
     "watch": "mocha -r ts-node/esm --extensions ts --watch --watch-files src,test test/**/*.ts"
   },
