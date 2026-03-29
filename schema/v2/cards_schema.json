@@ -359,6 +359,10 @@
       "minimum": 0,
       "type": "integer"
     },
+    "mu_limit": {
+      "minimum": 0,
+      "type": "integer"
+    },
     "narrative_text": {
       "minLength": 0,
       "type": "string"
