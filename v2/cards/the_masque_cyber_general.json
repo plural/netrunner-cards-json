@@ -8,6 +8,7 @@
   "influence_limit": null,
   "is_unique": false,
   "minimum_deck_size": 30,
+  "mu_limit": 4,
   "side_id": "runner",
   "stripped_text": "Draft format only.",
   "stripped_title": "The Masque: Cyber General",
