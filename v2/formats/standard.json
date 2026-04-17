@@ -220,6 +220,12 @@
       "date_start": "2026-03-13",
       "id": "standard_34",
       "restriction_id": "standard_ban_list_26_03"
+    },
+    {
+      "card_pool_id": "standard_2026_vantage_point",
+      "date_start": "2026-05-01",
+      "id": "standard_35",
+      "restriction_id": "standard_ban_list_26_05"
     }
   ]
 }
