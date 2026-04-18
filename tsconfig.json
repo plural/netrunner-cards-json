@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "declaration": true,
-    "downlevelIteration": true,
     "esModuleInterop": true,
     "incremental": true,
     "lib": ["ES2022"],
@@ -10,12 +9,12 @@
     "noImplicitAny": false,
     "outDir": "dist",
     "removeComments": true,
+    "rootDir": "src",
     "sourceMap": true,
     "strictNullChecks": true,
     "target": "ESNext",
     "typeRoots": ["node_modules/@types", "src/types"],
     "types": ["mocha", "node"]
-    // "verbatimModuleSyntax": true
   },
   "extends": "@tsconfig/recommended/tsconfig.json",
   "include": ["src/**/*"]
