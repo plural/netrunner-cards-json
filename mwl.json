@@ -1796,7 +1796,6 @@
     "code": "startup-balance-update-25-04-for-classic-only",
     "date_start": "2025-04-23",
     "name": "Startup Balance Update 25.04 (ignore active date)",
-    "subtypes": { "current": { "deck_limit": 0 } }
   },
   {
     "cards": {
@@ -1914,7 +1913,6 @@
     "code": "startup-balance-update-25-11-for-classic-only",
     "date_start": "2025-11-03",
     "name": "Startup Balance Update 25.11 (ignore active date)",
-    "subtypes": { "current": { "deck_limit": 0 } }
   },
   {
     "cards": {
@@ -2007,7 +2005,19 @@
     "code": "startup-balance-update-26-03-for-classic-only",
     "date_start": "2026-03-02",
     "name": "Startup Balance Update 26.03 (ignore active date)",
-    "subtypes": { "current": { "deck_limit": 0 } }
+  },
+  {
+    "cards": {
+      "30006": { "deck_limit": 0 },
+      "30040": { "deck_limit": 0 },
+      "30051": { "deck_limit": 0 },
+      "30067": { "deck_limit": 0 },
+      "35045": { "deck_limit": 0 },
+      "36066": { "deck_limit": 0 }
+    },
+    "code": "startup-balance-update-26-05-for-classic-only",
+    "date_start": "2026-04-01",
+    "name": "Startup Balance Update 26.05 (ignore active date)",
   },
   {
     "cards": {
@@ -2050,19 +2060,5 @@
     "code": "standard-ban-list-26-05",
     "date_start": "2026-05-01",
     "name": "Standard Ban List 26.05"
-  },
-  {
-    "cards": {
-      "30006": { "deck_limit": 0 },
-      "30040": { "deck_limit": 0 },
-      "30051": { "deck_limit": 0 },
-      "30067": { "deck_limit": 0 },
-      "35045": { "deck_limit": 0 },
-      "36066": { "deck_limit": 0 }
-    },
-    "code": "startup-balance-update-26-05-for-classic-only",
-    "date_start": "2026-05-01",
-    "name": "Startup Balance Update 26.05 (ignore active date)",
-    "subtypes": { "current": { "deck_limit": 0 } }
   }
 ]
