@@ -3,7 +3,7 @@ import { Buffer } from 'node:buffer';
 import { resolve } from "path";
 import { Ajv2020 } from "ajv/dist/2020.js"
 import { getCardsJson, getCyclesJson, getFactionsJson, getMwlJson, getPackFilesJson, getPacksJson, getPrebuiltsJson, getRotationsJson, getSidesJson, getTypesJson } from "../dist/index.js";
-import { expect } from "chai";
+import { expect, describe, it } from "vitest";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
