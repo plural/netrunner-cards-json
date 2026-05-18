@@ -34,7 +34,7 @@
     "@typescript-eslint/parser": "^8",
     "eslint": "^10",
     "husky": "^9",
-    "lint-staged": "^16",
+    "lint-staged": "^17",
     "prettier": "^3",
     "prettier-plugin-sort-json": "^4",
     "text-diff": "^1",
