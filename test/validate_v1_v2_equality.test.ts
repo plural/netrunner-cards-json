@@ -10,7 +10,7 @@ import {
   getMwlJson,
   textToId
 } from "../dist/index.js";
-import { expect } from "chai";
+import { expect, describe, it } from "vitest";
 
 describe('Card Cycles v1/v2', () => {
   // id in v2 is the textToId'd version of the set name, not the same as the NRDB classic code.
