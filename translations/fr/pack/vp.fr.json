@@ -1,0 +1,464 @@
+[
+  {
+    "code": "36001",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Réaction en Chaine"
+  },
+  {
+    "code": "36002",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Plonger"
+  },
+  {
+    "code": "36003",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Le Tailleur en Tungstène"
+  },
+  {
+    "code": "36004",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Corsaire"
+  },
+  {
+    "code": "36005",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Lampades"
+  },
+  {
+    "code": "36006",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Laboratoire Numérique"
+  },
+  {
+    "code": "36007",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Infirmier Hạnh"
+  },
+  {
+    "code": "36008",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Stick et Poke"
+  },
+  {
+    "code": "36009",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Intelligence Virtuelle, D.P. :  « Vous Pouvez m'Appeler Vic »"
+  },
+  {
+    "code": "36010",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Kompromat"
+  },
+  {
+    "code": "36011",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Dénoncer"
+  },
+  {
+    "code": "36012",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Le Pied dans la Porte"
+  },
+  {
+    "code": "36013",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Tombé du Camion"
+  },
+  {
+    "code": "36014",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Téléphone Crapaud"
+  },
+  {
+    "code": "36015",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Baker"
+  },
+  {
+    "code": "36016",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Irréguliers Intradômes"
+  },
+  {
+    "code": "36017",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Hiram « 0mission » Svensson : L'Ombre du Passé"
+  },
+  {
+    "code": "36018",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Prouesse Radiophonique"
+  },
+  {
+    "code": "36019",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Version Bêta"
+  },
+  {
+    "code": "36020",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Methuselah"
+  },
+  {
+    "code": "36021",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Pierre de Touche"
+  },
+  {
+    "code": "36022",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Partage en Lecture-Écriture"
+  },
+  {
+    "code": "36023",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Sipa"
+  },
+  {
+    "code": "36024",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Passager Clandestin"
+  },
+  {
+    "code": "36025",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "La Rumeur"
+  },
+  {
+    "code": "36026",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Ligne de Luxe de Méliès"
+  },
+  {
+    "code": "36027",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Synchrocyclotron"
+  },
+  {
+    "code": "36028",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Ansel 2.0"
+  },
+  {
+    "code": "36029",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Réverbération"
+  },
+  {
+    "code": "36030",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Sleipnir"
+  },
+  {
+    "code": "36031",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Vertige"
+  },
+  {
+    "code": "36032",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Avertissement au Consommateur"
+  },
+  {
+    "code": "36033",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "realloc()"
+  },
+  {
+    "code": "36034",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Plan de Retraite"
+  },
+  {
+    "code": "36035",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Rappel Parfait"
+  },
+  {
+    "code": "36036",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Méliès U : Seulement les Meilleurs"
+  },
+  {
+    "code": "36037",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Brume de Lotus"
+  },
+  {
+    "code": "36038",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Esca"
+  },
+  {
+    "code": "36039",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "ehtnyribaL"
+  },
+  {
+    "code": "36040",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Chercheur de Savoir"
+  },
+  {
+    "code": "36041",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Crinière de Lion"
+  },
+  {
+    "code": "36042",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Vicsek"
+  },
+  {
+    "code": "36043",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Cultiver"
+  },
+  {
+    "code": "36044",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Déchaîner"
+  },
+  {
+    "code": "36045",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "La Salle Rouge"
+  },
+  {
+    "code": "36046",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Division Éditoriale : Ad Nihilum"
+  },
+  {
+    "code": "36047",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Chasse aux Sorcières"
+  },
+  {
+    "code": "36048",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Magistrat Revontulet"
+  },
+  {
+    "code": "36049",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Agent Nihilo"
+  },
+  {
+    "code": "36050",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Avide"
+  },
+  {
+    "code": "36051",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Lethe"
+  },
+  {
+    "code": "36052",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Accès Payant"
+  },
+  {
+    "code": "36053",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Inonder le Marché"
+  },
+  {
+    "code": "36054",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Bouc Émissaire"
+  },
+  {
+    "code": "36055",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Machine à Battage"
+  },
+  {
+    "code": "36056",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Expansion de la Zone Sacrifiée"
+  },
+  {
+    "code": "36057",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Luana Campos"
+  },
+  {
+    "code": "36058",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Horizon des Évènements"
+  },
+  {
+    "code": "36059",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Volant d'Inertie"
+  },
+  {
+    "code": "36060",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Tocsin"
+  },
+  {
+    "code": "36061",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Myōshu"
+  },
+  {
+    "code": "36062",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Protocole de Réanimation"
+  },
+  {
+    "code": "36063",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Fonds Vautour"
+  },
+  {
+    "code": "36064",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Fleuron"
+  },
+  {
+    "code": "36065",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Grille de Shackleton"
+  },
+  {
+    "code": "36066",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": "Laissez-les Rêver"
+  }
+]
