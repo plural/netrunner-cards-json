@@ -1,6 +1,9 @@
 {
   "banned": ["cleaver", "nbn_reality_plus", "pharos", "tributary"],
   "date_start": "2025-04-24",
+  "deckbuilding_restrictions": {
+    "max_3_point_agendas": 4
+  },
   "format_id": "startup",
   "id": "startup_balance_update_25_04",
   "name": "Startup Balance Update 25.04"
