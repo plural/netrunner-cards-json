@@ -7,10 +7,8 @@
     "seamless_launch"
   ],
   "date_start": "2026-03-02",
-  "deckbuilding_restrictions": {
-    "max_3_point_agendas": 3
-  },
   "format_id": "startup",
   "id": "startup_balance_update_26_03",
+  "max_3_point_agendas": 3,
   "name": "Startup Balance Update 26.03"
 }
