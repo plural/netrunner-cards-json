@@ -14,16 +14,6 @@
       "minLength": 1,
       "type": "string"
     },
-    "deckbuilding_restrictions": {
-      "additionalProperties": false,
-      "properties": {
-        "max_3_point_agendas": {
-          "minimum": 0,
-          "type": "integer"
-        }
-      },
-      "type": "object"
-    },
     "format_id": {
       "minLength": 1,
       "type": "string"
@@ -42,6 +32,10 @@
     "id": {
       "minLength": 1,
       "type": "string"
+    },
+    "max_3_point_agendas": {
+      "minimum": 0,
+      "type": "integer"
     },
     "name": {
       "minLength": 1,
