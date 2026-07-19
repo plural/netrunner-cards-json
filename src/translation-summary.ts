@@ -1,3 +1,5 @@
+// Check present translation coverages and print a summary.
+// This tool defaults to all NSG releases unless the flags ask for something more specific.
 import { readFileSync, readdirSync, existsSync } from 'fs';
 import { join, resolve } from 'path';
 import commandLineArgs from 'command-line-args';
