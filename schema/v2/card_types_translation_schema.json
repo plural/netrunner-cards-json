@@ -1,0 +1,16 @@
+{
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/card_types_translation_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "items": {
+    "additionalProperties": false,
+    "properties": {
+      "id": { "minLength": 1, "type": "string" },
+      "name": {
+        "oneOf": [{ "minLength": 1, "type": "string" }, { "type": "null" }]
+      }
+    },
+    "required": ["id", "name"],
+    "type": "object"
+  },
+  "type": "array"
+}
