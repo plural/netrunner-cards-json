@@ -4,7 +4,6 @@ import { readFileSync, readdirSync, existsSync } from 'fs';
 import { join, resolve } from 'path';
 import commandLineArgs from 'command-line-args';
 import {
-  getCardCyclesV2Json,
   getCardSetsV2Json,
   getCardsV2Json,
   getPrintingsV2Json,
@@ -164,7 +163,7 @@ locales.forEach(locale => {
           });
         }
       } catch (e) {
-        // ignore
+        console.error(`Error reading ${cardPath}:`, e);
       }
     }
   });
@@ -213,7 +212,7 @@ locales.forEach(locale => {
           }
         });
       } catch (e) {
-        // ignore
+        console.error(`Error reading ${setPath}:`, e);
       }
     }
   }

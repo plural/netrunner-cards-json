@@ -6,7 +6,6 @@ import {
   getCardTypesV2Json,
   getCardSubtypesV2Json,
   getFactionsV2Json,
-  getSidesV2Json,
   getCardsV2Json,
   getPrintingsV2Json,
 } from '../dist/index.js';
@@ -20,7 +19,6 @@ const v2Sets = getCardSetsV2Json();
 const v2Types = getCardTypesV2Json();
 const v2Subtypes = getCardSubtypesV2Json();
 const v2Factions = getFactionsV2Json();
-const v2Sides = getSidesV2Json();
 const v2Cards = getCardsV2Json();
 const v2Printings = getPrintingsV2Json();
 
@@ -319,7 +317,7 @@ describe('V1/V2 Translations Parity & Equality', () => {
         });
 
         // A & B: Card Title & Text Parity
-        for (const [cardId, group] of v1CardsByCardId.entries()) {
+        for (const group of v1CardsByCardId.values()) {
           const first = group[0];
           const c = first.c;
           const trCard = v2TrCards[c.id];

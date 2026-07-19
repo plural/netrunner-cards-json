@@ -228,7 +228,9 @@ for (const locale of locales) {
                 }
               });
             });
-          } catch {}
+          } catch (e) {
+            console.error(`Error reading ${file}:`, e);
+          }
         }
       });
     }
@@ -335,7 +337,9 @@ for (const locale of locales) {
               }
             }
           });
-        } catch {}
+        } catch (e) {
+          console.error(`Error reading ${file}:`, e);
+        }
       }
     });
   }
@@ -464,7 +468,7 @@ for (const locale of locales) {
             }
 
             const flavorParts = v1Card.flavor.split('\n');
-            let v2Flavor = p.faces
+            const v2Flavor = p.faces
               ? [p.flavor].concat(p.faces.map((s: any) => s.flavor)).filter((f: any) => !!f).join('\n')
               : p.flavor;
 
@@ -496,7 +500,9 @@ for (const locale of locales) {
               }
             }
           });
-        } catch {}
+        } catch (e) {
+          console.error(`Error reading ${file}:`, e);
+        }
       }
     });
   }

@@ -12,8 +12,6 @@ import {
   getPrintingsV2Json,
 } from '../dist/index.js';
 import { expect, describe, it } from 'vitest';
-import lodash from 'lodash';
-const { keyBy } = lodash;
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
