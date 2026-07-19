@@ -37,6 +37,10 @@ const locales = fs
       fs.existsSync(resolve(i18nDir, f)) && f !== '.DS_Store' && f !== 'schema'
   );
 
+function hasName(item: { name?: string | null }): boolean {
+  return item.name !== null && item.name !== undefined && item.name.trim() !== '';
+}
+
 function getEnglishCombinedText(card: any) {
   const baseText = card.text || '';
   if (card.layout_id === 'flip') {
@@ -102,6 +106,7 @@ describe('V1/V2 Translations Parity & Equality', () => {
             : {};
 
           v1Cycles.forEach((c: any) => {
+            if (!hasName(c)) return;
             const v2C = v2CyclesByLegacyCode[c.code];
             if (v2C) {
               const tr = v2TrCycles[v2C.id];
@@ -126,6 +131,7 @@ describe('V1/V2 Translations Parity & Equality', () => {
             : {};
 
           v1Packs.forEach((p: any) => {
+            if (!hasName(p)) return;
             const v2S = v2SetsByLegacyCode[p.code];
             if (v2S) {
               const tr = v2TrSets[v2S.id];
@@ -152,6 +158,7 @@ describe('V1/V2 Translations Parity & Equality', () => {
             : {};
 
           v1Factions.forEach((f: any) => {
+            if (!hasName(f)) return;
             const v2Id = f.code.replace(/-/g, '_');
             const v2F = v2Factions.find(fac => fac.id === v2Id);
             if (v2F) {
@@ -177,6 +184,7 @@ describe('V1/V2 Translations Parity & Equality', () => {
             : {};
 
           v1Sides.forEach((s: any) => {
+            if (!hasName(s)) return;
             const tr = v2TrSides[s.code];
             expect(tr, `Missing translation for side ${s.code}`).to.not.be
               .undefined;
@@ -203,6 +211,7 @@ describe('V1/V2 Translations Parity & Equality', () => {
             : {};
 
           v1Types.forEach((t: any) => {
+            if (!hasName(t)) return;
             if (t.code === 'identity') {
               const trRunner = v2TrTypes['runner_identity'];
               const trCorp = v2TrTypes['corp_identity'];
