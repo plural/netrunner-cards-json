@@ -1,0 +1,32 @@
+{
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/printings_translation_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "items": {
+    "additionalProperties": false,
+    "properties": {
+      "faces": {
+        "items": {
+          "additionalProperties": false,
+          "properties": {
+            "flavor": {
+              "oneOf": [
+                { "minLength": 1, "type": "string" },
+                { "type": "null" }
+              ]
+            }
+          },
+          "required": ["flavor"],
+          "type": "object"
+        },
+        "type": "array"
+      },
+      "flavor": {
+        "oneOf": [{ "minLength": 1, "type": "string" }, { "type": "null" }]
+      },
+      "id": { "minLength": 1, "type": "string" }
+    },
+    "required": ["id"],
+    "type": "object"
+  },
+  "type": "array"
+}

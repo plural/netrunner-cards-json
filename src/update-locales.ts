@@ -5,7 +5,8 @@ import {
 	writeFileSync,
 } from 'fs';
 import { join, resolve } from 'path';
-import { pick, union, keyBy, sortBy } from 'lodash';
+import lodash from 'lodash';
+const { pick, union, keyBy, sortBy } = lodash;
 
 const [locale] = process.argv;
 
