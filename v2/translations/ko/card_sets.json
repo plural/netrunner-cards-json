@@ -1,0 +1,150 @@
+[
+  {
+    "id": "draft",
+    "name": "드래프트"
+  },
+  {
+    "id": "core_set",
+    "name": "코어 세트"
+  },
+  {
+    "id": "what_lies_ahead",
+    "name": "앞으로 벌어질 일"
+  },
+  {
+    "id": "trace_amount",
+    "name": "추적 가능치"
+  },
+  {
+    "id": "cyber_exodus",
+    "name": "사이버 엑소더스"
+  },
+  {
+    "id": "a_study_in_static",
+    "name": "정지장 연구"
+  },
+  {
+    "id": "humanitys_shadow",
+    "name": "인류의 그림자"
+  },
+  {
+    "id": "future_proof",
+    "name": "보장된 미래"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "창조와 통제"
+  },
+  {
+    "id": "opening_moves",
+    "name": "첫 수"
+  },
+  {
+    "id": "second_thoughts",
+    "name": "재고"
+  },
+  {
+    "id": "mala_tempora",
+    "name": "말라 템포라"
+  },
+  {
+    "id": "true_colors",
+    "name": "본색"
+  },
+  {
+    "id": "fear_and_loathing",
+    "name": "두려움과 혐오"
+  },
+  {
+    "id": "double_time",
+    "name": "더블 타임"
+  },
+  {
+    "id": "honor_and_profit",
+    "name": "명예와 이익"
+  },
+  {
+    "id": "upstalk",
+    "name": "업스토크"
+  },
+  {
+    "id": "the_spaces_between",
+    "name": "간극"
+  },
+  {
+    "id": "first_contact",
+    "name": "첫 접촉"
+  },
+  {
+    "id": "up_and_over",
+    "name": "저 너머"
+  },
+  {
+    "id": "all_that_remains",
+    "name": "흔적"
+  },
+  {
+    "id": "the_source",
+    "name": "출처"
+  },
+  {
+    "id": "order_and_chaos",
+    "name": "질서와 혼돈"
+  },
+  {
+    "id": "the_valley",
+    "name": "더 밸리"
+  },
+  {
+    "id": "breaker_bay",
+    "name": "브레이커 만"
+  },
+  {
+    "id": "chrome_city",
+    "name": "크롬 시티"
+  },
+  {
+    "id": "the_underway",
+    "name": "언더웨이"
+  },
+  {
+    "id": "old_hollywood",
+    "name": "구 할리우드"
+  },
+  {
+    "id": "the_universe_of_tomorrow",
+    "name": "내일의 세계"
+  },
+  {
+    "id": "data_and_destiny",
+    "name": "데이터와 운명"
+  },
+  {
+    "id": "kala_ghoda",
+    "name": "칼라 고다"
+  },
+  {
+    "id": "business_first",
+    "name": "사업 우선"
+  },
+  {
+    "id": "democracy_and_dogma",
+    "name": "민주주의와 신조"
+  },
+  {
+    "id": "salsette_island",
+    "name": "살세트 섬"
+  },
+  {
+    "id": "the_liberated_mind",
+    "name": "해방된 정신"
+  },
+  {
+    "id": "fear_the_masses",
+    "name": "대중을 두려워하라"
+  },
+  {
+    "id": "23_seconds",
+    "name": "23초"
+  }
+]

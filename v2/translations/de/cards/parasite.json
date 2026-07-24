@@ -1,0 +1,5 @@
+{
+  "id": "parasite",
+  "text": "Kann nur auf einem geladenen Ice installiert werden.\nDas hostende Ice hat -1 Stärke für jeden Viruszähler auf Parasit und wird zerstört, wenn seine Stärke 0 oder weniger ist.\nWenn dein Zug beginnt, lege 1 Viruszähler auf Parasit.",
+  "title": "Parasit"
+}

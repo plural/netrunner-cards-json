@@ -1,0 +1,5 @@
+{
+  "id": "searchlight",
+  "text": "Suchscheinwerfer kann entwickelt werden. X ist die Anzahl der Entwicklungsmarker auf Suchscheinwerfer.\n[subroutine]<trace>Aufspüren X</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine]<trace>Aufspüren X</trace> Verpasse dem Runner bei Erfolg 1 Markierung.",
+  "title": "Suchscheinwerfer"
+}

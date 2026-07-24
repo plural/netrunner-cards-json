@@ -1,0 +1,5 @@
+{
+  "id": "sherlock_1_0",
+  "text": "潜袭者能花费[click]，以破解夏洛克1.0上的任一子进程。\n[subroutine] <trace>追踪 4</trace> 如果成功，将一个已安装的程序加入潜袭者的存储栈顶端。\n[subroutine] <trace>追踪 4</trace> 如果成功，将一个已安装的程序加入潜袭者的存储栈顶端。",
+  "title": "夏洛克1.0"
+}

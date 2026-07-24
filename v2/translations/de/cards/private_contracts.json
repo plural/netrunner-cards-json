@@ -1,0 +1,5 @@
+{
+  "id": "private_contracts",
+  "text": "Lege 14[credit] aus der Credit-Bank auf Nebeneinkünfte, wenn sie geladen wird. Wenn keine Credits mehr auf Nebeneinkünfte sind, zerstöre sie.\n[click]: Nimm 2[credit] von Nebeneinkünfte.",
+  "title": "Nebeneinkünfte"
+}

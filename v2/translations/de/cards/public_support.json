@@ -1,0 +1,5 @@
+{
+  "id": "public_support",
+  "text": "Lege 3 Wirkungszähler auf Öffentliche Unterstützung, sobald sie geladen wird. Sobald sich keine Wirkungszähler mehr auf Öffentliche Unterstützung befinden, lege sie als Agenda mit dem Wert 1 in deiner Punktezone ab.\nWenn dein Zug beginnt, entferne 1 Wirkungszähler von Öffentliche Unterstützung.",
+  "title": "Öffentliche Unterstützung"
+}

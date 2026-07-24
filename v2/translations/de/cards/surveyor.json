@@ -1,0 +1,5 @@
+{
+  "id": "surveyor",
+  "text": "X ist die doppelte Anzahl an Ice, die dieses System schützen.\n[subroutine]<trace>Aufspüren X</trace> Bei Erfolg verpasse dem Runner 2 Markierungen.\n[subroutine]<trace>Aufspüren X</trace> Bei Erfolg beende den Run.",
+  "title": "Inspektor"
+}

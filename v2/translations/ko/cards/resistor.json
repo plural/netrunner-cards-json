@@ -1,0 +1,5 @@
+{
+  "id": "resistor",
+  "text": "저항은 러너가 가진 태그 1개당 힘을 +1한다.\n[subroutine] <trace>추적 4</trace> 성공하면, 런을 종료한다.",
+  "title": "저항"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "bank_job",
+  "text": "Lege 8[credit] aus der Bank auf Bankeinbruch, wenn er installiert wird. Wenn keine Credits mehr auf Bankeinbruch sind, zerstöre ihn.\nImmer, wenn du einen erfolgreichen Run auf ein ausgelagertes System durchführst, kannst du, anstatt auf Karten zuzugreifen, eine beliebige Anzahl Credits von Bankeinbruch nehmen.",
+  "title": "Bankeinbruch"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "rook",
+  "text": "[click]: Hébergez la Tour sur une glace qui n'héberge pas de <strong>Caïssa</strong>. Si elle est déjà hébergée, la Tour ne peut-être hébergée que sur un glace qui protège ce serveur ou sur une glace à la même position (en comptant à partir de la glace centrale) protégeant ce serveur.\nLe coût d'activation de chaque glace protégeant ce serveur est augmenté de 2.",
+  "title": "Tour"
+}

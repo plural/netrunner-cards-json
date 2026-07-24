@@ -1,0 +1,5 @@
+{
+  "id": "archangel",
+  "text": "Falls von F&E auf Erzengel zugegriffen wird, muss der Runner ihn aufdecken.\nFalls du 3[credit] zahlst, wenn der Runner auf Erzengel zugreift, trifft er sofort darauf. Ignoriere diese Fähigkeit, falls vom Archiv auf Erzengel zugegriffen wird.\n[subroutine] <trace>Aufspüren 6</trace> Bei Erfolg füge 1 installierte Runner-Karte seinem Griff hinzu.",
+  "title": "Erzengel"
+}

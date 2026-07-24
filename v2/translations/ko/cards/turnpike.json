@@ -1,0 +1,5 @@
+{
+  "id": "turnpike",
+  "text": "러너가 유료 고속도로와 대치할 때, 러너는 1[credit]을 잃는다.\n[subroutine] <trace>추적 5</trace> 성공하면, 러너에게 태그 1개를 준다.",
+  "title": "유료 고속도로"
+}

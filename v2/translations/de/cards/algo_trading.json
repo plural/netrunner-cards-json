@@ -1,0 +1,5 @@
+{
+  "id": "algo_trading",
+  "text": "Wenn dein Zug beginnt, kannst du bis zu 3[credit] aus deinem Credit-Vorrat auf Automatisierter Handel verschieben.\nWenn dein Zug beginnt, lege 2[credit] aus der Bank auf Automatisierter Handel, falls sich mindestens 6[credit] darauf befinden.\n[click],[trash]: Nimm alle Credits von Automatisierter Handel.",
+  "title": "JobAutomatisierter Handel"
+}

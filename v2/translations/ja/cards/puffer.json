@@ -1,0 +1,5 @@
+{
+  "id": "puffer",
+  "text": "このプログラムの強度とメモリーコストは、その上のパワーカウンター1つにつき1増える。\n境界→ <strong>1[credit]：</strong> <strong>セントリー</strong>のサブルーチンを1つブレイクする。\n<strong>2[credit]：</strong> +1強度。\n<strong>[click]：</strong> そのプログラムにパワーカウンターを1つ置くか、そのプログラムからパワーカウンターを1つ取り除く。",
+  "title": "パッファー"
+}

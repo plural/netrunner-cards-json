@@ -1,0 +1,5 @@
+{
+  "id": "enforcing_loyalty",
+  "text": "이 운영을 플레이하기 위한 추가 비용으로 [click]을 쓴다.\n<trace>추적 3</trace> 성공하면, 러너의 ID와 소속이 다른 설치된 카드 1장을 폐기한다.",
+  "title": "충성 강요"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "the_board",
+  "text": "Jede Agenda in der Punktezone des Runners ist 1 Agendapunkt weniger wert.\nFalls Der Vorstand zerstört wird, während auf ihn zugegriffen wird, füge ihn zur Punktezone des Runners als Agenda mit einem Wert von 2 Agendapunkten hinzu.",
+  "title": "Der Vorstand"
+}

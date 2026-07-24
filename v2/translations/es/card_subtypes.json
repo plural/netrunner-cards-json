@@ -1,0 +1,306 @@
+[
+  {
+    "id": "ai",
+    "name": "AI"
+  },
+  {
+    "id": "ap",
+    "name": "AP"
+  },
+  {
+    "id": "advertisement",
+    "name": "Anuncio"
+  },
+  {
+    "id": "alliance",
+    "name": "Alianza"
+  },
+  {
+    "id": "ambush",
+    "name": "Ambush"
+  },
+  {
+    "id": "barrier",
+    "name": "Barrera"
+  },
+  {
+    "id": "bioroid",
+    "name": "Bioroid"
+  },
+  {
+    "id": "black_ops",
+    "name": "Operaciones Ilegales"
+  },
+  {
+    "id": "character",
+    "name": "Character"
+  },
+  {
+    "id": "chip",
+    "name": "Chip"
+  },
+  {
+    "id": "clan",
+    "name": "Clan"
+  },
+  {
+    "id": "clone",
+    "name": "Clone"
+  },
+  {
+    "id": "cloud",
+    "name": "Nube"
+  },
+  {
+    "id": "code_gate",
+    "name": "Puerta De Código"
+  },
+  {
+    "id": "condition",
+    "name": "Condición"
+  },
+  {
+    "id": "connection",
+    "name": "Contacto"
+  },
+  {
+    "id": "console",
+    "name": "Consola"
+  },
+  {
+    "id": "corp",
+    "name": "Corporation"
+  },
+  {
+    "id": "corporation",
+    "name": "Corporation"
+  },
+  {
+    "id": "current",
+    "name": "Current"
+  },
+  {
+    "id": "cyborg",
+    "name": "Cyborg"
+  },
+  {
+    "id": "daemon",
+    "name": "Daemon"
+  },
+  {
+    "id": "decoder",
+    "name": "Descodificador"
+  },
+  {
+    "id": "deflector",
+    "name": "Deflector"
+  },
+  {
+    "id": "destroyer",
+    "name": "Destructor"
+  },
+  {
+    "id": "deva",
+    "name": "Deva"
+  },
+  {
+    "id": "directive",
+    "name": "Directive"
+  },
+  {
+    "id": "division",
+    "name": "Sección"
+  },
+  {
+    "id": "double",
+    "name": "Double"
+  },
+  {
+    "id": "executive",
+    "name": "Ejecutivo"
+  },
+  {
+    "id": "expansion",
+    "name": "Expansión"
+  },
+  {
+    "id": "facility",
+    "name": "Complejo"
+  },
+  {
+    "id": "fracter",
+    "name": "Fracter"
+  },
+  {
+    "id": "g_mod",
+    "name": "Mod-g"
+  },
+  {
+    "id": "gear",
+    "name": "Equipamiento"
+  },
+  {
+    "id": "government",
+    "name": "Gobiertno"
+  },
+  {
+    "id": "gray_ops",
+    "name": "Gray Ops"
+  },
+  {
+    "id": "hostile",
+    "name": "Hostil"
+  },
+  {
+    "id": "icebreaker",
+    "name": "Rompehielos"
+  },
+  {
+    "id": "initiative",
+    "name": "Initiative"
+  },
+  {
+    "id": "job",
+    "name": "Job"
+  },
+  {
+    "id": "killer",
+    "name": "Killer"
+  },
+  {
+    "id": "liability",
+    "name": "Illicit"
+  },
+  {
+    "id": "link",
+    "name": "Enlace"
+  },
+  {
+    "id": "location",
+    "name": "Ubicación"
+  },
+  {
+    "id": "megacorp",
+    "name": "Megacorporación"
+  },
+  {
+    "id": "mod",
+    "name": "Mod"
+  },
+  {
+    "id": "mythic",
+    "name": "Mítico"
+  },
+  {
+    "id": "next",
+    "name": "NEXT"
+  },
+  {
+    "id": "natural",
+    "name": "Natural"
+  },
+  {
+    "id": "observer",
+    "name": "Observador"
+  },
+  {
+    "id": "priority",
+    "name": "Priority"
+  },
+  {
+    "id": "psi",
+    "name": "Psi"
+  },
+  {
+    "id": "region",
+    "name": "Región"
+  },
+  {
+    "id": "remote",
+    "name": "Remoto"
+  },
+  {
+    "id": "research",
+    "name": "Investigación"
+  },
+  {
+    "id": "ritzy",
+    "name": "Lujoso"
+  },
+  {
+    "id": "run",
+    "name": "Run"
+  },
+  {
+    "id": "sabotage",
+    "name": "Sabotaje"
+  },
+  {
+    "id": "security",
+    "name": "Seguridad"
+  },
+  {
+    "id": "security_protocol",
+    "name": "Security Protocol"
+  },
+  {
+    "id": "seedy",
+    "name": "Sórdido"
+  },
+  {
+    "id": "sentry",
+    "name": "Centinela"
+  },
+  {
+    "id": "stealth",
+    "name": "Sigilo"
+  },
+  {
+    "id": "subsidiary",
+    "name": "Subsidiary"
+  },
+  {
+    "id": "sysop",
+    "name": "Sysop"
+  },
+  {
+    "id": "terminal",
+    "name": "Terminal"
+  },
+  {
+    "id": "tracer",
+    "name": "Rastreador"
+  },
+  {
+    "id": "transaction",
+    "name": "Transacción"
+  },
+  {
+    "id": "trap",
+    "name": "Trampa"
+  },
+  {
+    "id": "triple",
+    "name": "Triple"
+  },
+  {
+    "id": "unorthodox",
+    "name": "Heterodoxo"
+  },
+  {
+    "id": "vehicle",
+    "name": "Vehículo"
+  },
+  {
+    "id": "virtual",
+    "name": "Virtual"
+  },
+  {
+    "id": "virus",
+    "name": "Virus"
+  },
+  {
+    "id": "weapon",
+    "name": "Bomba"
+  }
+]

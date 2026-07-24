@@ -1,0 +1,46 @@
+[
+  {
+    "id": "agenda",
+    "name": "Projekt"
+  },
+  {
+    "id": "asset",
+    "name": "Aktywa"
+  },
+  {
+    "id": "corp_identity",
+    "name": "Tożsamość"
+  },
+  {
+    "id": "event",
+    "name": "Wydarzenie"
+  },
+  {
+    "id": "hardware",
+    "name": "Sprzęt"
+  },
+  {
+    "id": "ice",
+    "name": "Lód"
+  },
+  {
+    "id": "operation",
+    "name": "Operacja"
+  },
+  {
+    "id": "program",
+    "name": "Program"
+  },
+  {
+    "id": "resource",
+    "name": "Zasób"
+  },
+  {
+    "id": "runner_identity",
+    "name": "Tożsamość"
+  },
+  {
+    "id": "upgrade",
+    "name": "Upgrade"
+  }
+]

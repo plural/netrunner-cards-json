@@ -1,0 +1,46 @@
+[
+  {
+    "id": "agenda",
+    "name": "計画書"
+  },
+  {
+    "id": "asset",
+    "name": "資財"
+  },
+  {
+    "id": "corp_identity",
+    "name": "ID"
+  },
+  {
+    "id": "event",
+    "name": "イベント"
+  },
+  {
+    "id": "hardware",
+    "name": "ハードウェア"
+  },
+  {
+    "id": "ice",
+    "name": "アイス"
+  },
+  {
+    "id": "operation",
+    "name": "任務"
+  },
+  {
+    "id": "program",
+    "name": "プログラム"
+  },
+  {
+    "id": "resource",
+    "name": "リソース"
+  },
+  {
+    "id": "runner_identity",
+    "name": "ID"
+  },
+  {
+    "id": "upgrade",
+    "name": "強化"
+  }
+]

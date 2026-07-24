@@ -1,0 +1,5 @@
+{
+  "id": "data_raven",
+  "text": "Cuando el Runner se enfrente a Cuervo de Datos, debe recibir 1 marca o terminar la incursión.\n<strong>Contador de poder alojado</strong>: Dale 1 marca al Runner.\n[subroutine] <trace>Rastreo 3</trace> Si tiene éxito, coloca 1 contador de poder sobre Cuervo de Datos.",
+  "title": "Cuervo de Datos"
+}

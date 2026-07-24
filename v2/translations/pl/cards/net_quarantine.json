@@ -1,0 +1,5 @@
+{
+  "id": "net_quarantine",
+  "text": "The Runner's base link strength is reduced to 0 during the first trace each turn.\nWhenever the Runner increases his or her link strength by spending credits, gain 1[credit] for every 2[credit] spent.",
+  "title": null
+}

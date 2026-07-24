@@ -1,0 +1,5 @@
+{
+  "id": "data_raven",
+  "text": "Gdy runner spotyka Kruka danych, musi wziąć 1 tag lub zakończyć skok.\n<strong>Hostowany znacznik zasilania</strong>: Daj runnerowi 1 tag.\n[subroutine] <trace>Trace 3</trace> Jeśli udane, połóż 1 znacznik zasilania na Kruku danych.",
+  "title": "Kruk danych"
+}

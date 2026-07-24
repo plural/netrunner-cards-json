@@ -1,0 +1,5 @@
+{
+  "id": "tempus",
+  "text": "Falls von F&E auf Tempus zugegriffen wird, muss der Runner diese Karte aufdecken.\nSobald der Runner auf Tempus zugreift, <trace>Aufspüren 3</trace> Bei Erfolg verliert der Runner [click][click] oder erleidet 1 Hirn-Schaden. Ignoriere diese Fähigkeit, falls der Runner vom Archiv auf Tempus zugreift.",
+  "title": null
+}

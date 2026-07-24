@@ -1,0 +1,278 @@
+[
+  {
+    "id": "ai",
+    "name": "IA"
+  },
+  {
+    "id": "ap",
+    "name": "AP"
+  },
+  {
+    "id": "advertisement",
+    "name": "Publicité"
+  },
+  {
+    "id": "ambush",
+    "name": "Ambush"
+  },
+  {
+    "id": "barrier",
+    "name": "Barrière"
+  },
+  {
+    "id": "bioroid",
+    "name": "Bioroïde"
+  },
+  {
+    "id": "black_ops",
+    "name": "Illégale"
+  },
+  {
+    "id": "caissa",
+    "name": "Caïssa"
+  },
+  {
+    "id": "chip",
+    "name": "Puce"
+  },
+  {
+    "id": "clan",
+    "name": "Clan"
+  },
+  {
+    "id": "clone",
+    "name": "Clone"
+  },
+  {
+    "id": "cloud",
+    "name": "Brouilleur"
+  },
+  {
+    "id": "code_gate",
+    "name": "Verrou"
+  },
+  {
+    "id": "condition",
+    "name": "Condition"
+  },
+  {
+    "id": "connection",
+    "name": "Relation"
+  },
+  {
+    "id": "console",
+    "name": "Console"
+  },
+  {
+    "id": "corporation",
+    "name": "Corporation"
+  },
+  {
+    "id": "cyborg",
+    "name": "Cyborg"
+  },
+  {
+    "id": "daemon",
+    "name": "Démon"
+  },
+  {
+    "id": "decoder",
+    "name": "Décrypteur"
+  },
+  {
+    "id": "deflector",
+    "name": "Déflecteur"
+  },
+  {
+    "id": "destroyer",
+    "name": "Destructeur"
+  },
+  {
+    "id": "division",
+    "name": "Division"
+  },
+  {
+    "id": "double",
+    "name": "Double"
+  },
+  {
+    "id": "executive",
+    "name": "Cadre"
+  },
+  {
+    "id": "expansion",
+    "name": "Extension"
+  },
+  {
+    "id": "facility",
+    "name": "Infrastructure"
+  },
+  {
+    "id": "fracter",
+    "name": "Fragmenteur"
+  },
+  {
+    "id": "g_mod",
+    "name": "G-mod"
+  },
+  {
+    "id": "gear",
+    "name": "Équipement"
+  },
+  {
+    "id": "government",
+    "name": "Government"
+  },
+  {
+    "id": "gray_ops",
+    "name": "Douteuse"
+  },
+  {
+    "id": "hostile",
+    "name": "Hostile"
+  },
+  {
+    "id": "icebreaker",
+    "name": "Brise-glace"
+  },
+  {
+    "id": "initiative",
+    "name": "Initiative"
+  },
+  {
+    "id": "job",
+    "name": "Crime"
+  },
+  {
+    "id": "killer",
+    "name": "Tueur"
+  },
+  {
+    "id": "liability",
+    "name": "Illicite"
+  },
+  {
+    "id": "link",
+    "name": "Relais"
+  },
+  {
+    "id": "location",
+    "name": "Lieu"
+  },
+  {
+    "id": "megacorp",
+    "name": "Mégacorpo"
+  },
+  {
+    "id": "mod",
+    "name": "Mod"
+  },
+  {
+    "id": "mythic",
+    "name": "Mythique"
+  },
+  {
+    "id": "next",
+    "name": "NEXT"
+  },
+  {
+    "id": "natural",
+    "name": "Naturel"
+  },
+  {
+    "id": "observer",
+    "name": "Veilleur"
+  },
+  {
+    "id": "priority",
+    "name": "Priorité"
+  },
+  {
+    "id": "psi",
+    "name": "Psi"
+  },
+  {
+    "id": "region",
+    "name": "Région"
+  },
+  {
+    "id": "remote",
+    "name": "Distant"
+  },
+  {
+    "id": "research",
+    "name": "Recherche"
+  },
+  {
+    "id": "ritzy",
+    "name": "Luxueux"
+  },
+  {
+    "id": "run",
+    "name": "Piratage"
+  },
+  {
+    "id": "sabotage",
+    "name": "Sabotage"
+  },
+  {
+    "id": "security",
+    "name": "Securité"
+  },
+  {
+    "id": "security_protocol",
+    "name": "Security Protocol"
+  },
+  {
+    "id": "seedy",
+    "name": "Marginal"
+  },
+  {
+    "id": "sentry",
+    "name": "Sentinelle"
+  },
+  {
+    "id": "stealth",
+    "name": "Furtif"
+  },
+  {
+    "id": "subsidiary",
+    "name": "Subsidiary"
+  },
+  {
+    "id": "sysop",
+    "name": "Sysop"
+  },
+  {
+    "id": "tracer",
+    "name": "Traqueur"
+  },
+  {
+    "id": "transaction",
+    "name": "Transaction"
+  },
+  {
+    "id": "trap",
+    "name": "Piège"
+  },
+  {
+    "id": "triple",
+    "name": "Triple"
+  },
+  {
+    "id": "unorthodox",
+    "name": "Marginal"
+  },
+  {
+    "id": "virtual",
+    "name": "Virtuelle"
+  },
+  {
+    "id": "virus",
+    "name": "Virus"
+  },
+  {
+    "id": "weapon",
+    "name": "Arme"
+  }
+]

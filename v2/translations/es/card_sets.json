@@ -1,0 +1,146 @@
+[
+  {
+    "id": "draft",
+    "name": "Draft"
+  },
+  {
+    "id": "core_set",
+    "name": "Caja básica"
+  },
+  {
+    "id": "what_lies_ahead",
+    "name": "Lo que nos espera"
+  },
+  {
+    "id": "trace_amount",
+    "name": "Cantidad residual"
+  },
+  {
+    "id": "cyber_exodus",
+    "name": "Cíber éxodo"
+  },
+  {
+    "id": "a_study_in_static",
+    "name": "Estudio en estática"
+  },
+  {
+    "id": "humanitys_shadow",
+    "name": "La sombra de la humanidad"
+  },
+  {
+    "id": "future_proof",
+    "name": "Prueba futura"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "Creación y Control"
+  },
+  {
+    "id": "opening_moves",
+    "name": "Movimientos de apertura"
+  },
+  {
+    "id": "second_thoughts",
+    "name": "Reparos"
+  },
+  {
+    "id": "mala_tempora",
+    "name": "Mala Tempora"
+  },
+  {
+    "id": "true_colors",
+    "name": "Verdadera cara"
+  },
+  {
+    "id": "fear_and_loathing",
+    "name": "Miedo y asco"
+  },
+  {
+    "id": "double_time",
+    "name": "A paso ligero"
+  },
+  {
+    "id": "honor_and_profit",
+    "name": "Honor y beneficios"
+  },
+  {
+    "id": "upstalk",
+    "name": "Subiendo la mata"
+  },
+  {
+    "id": "the_spaces_between",
+    "name": "Los espacios intermedios"
+  },
+  {
+    "id": "first_contact",
+    "name": "Primer contacto"
+  },
+  {
+    "id": "up_and_over",
+    "name": "Por encima"
+  },
+  {
+    "id": "all_that_remains",
+    "name": "Todo lo que queda"
+  },
+  {
+    "id": "the_source",
+    "name": "La fuente"
+  },
+  {
+    "id": "order_and_chaos",
+    "name": "Orden y caos"
+  },
+  {
+    "id": "the_valley",
+    "name": "El Valle"
+  },
+  {
+    "id": "breaker_bay",
+    "name": "Breaker Bay"
+  },
+  {
+    "id": "chrome_city",
+    "name": "Ciudad Cromo"
+  },
+  {
+    "id": "the_underway",
+    "name": "Underway"
+  },
+  {
+    "id": "old_hollywood",
+    "name": "El viejo Hollywood"
+  },
+  {
+    "id": "the_universe_of_tomorrow",
+    "name": "El universo del mañana"
+  },
+  {
+    "id": "data_and_destiny",
+    "name": "Datos y destino"
+  },
+  {
+    "id": "kala_ghoda",
+    "name": "Kala Ghoda"
+  },
+  {
+    "id": "business_first",
+    "name": "El negocio es lo primero"
+  },
+  {
+    "id": "democracy_and_dogma",
+    "name": "Democracia y dogma"
+  },
+  {
+    "id": "salsette_island",
+    "name": "Isla Salsette"
+  },
+  {
+    "id": "the_liberated_mind",
+    "name": "La Mente Liberada"
+  },
+  {
+    "id": "fear_the_masses",
+    "name": "Teme a las masas"
+  }
+]

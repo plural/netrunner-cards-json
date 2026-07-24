@@ -1,0 +1,5 @@
+{
+  "id": "power_shutdown",
+  "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug einen Run durchgeführt hat.\nZerstöre die X obersten karten von F&E. Der Runner zerstört 1 installiertes Programm oder Hardware mit Installationskosten von X oder weniger.",
+  "title": "Stromabschaltung"
+}

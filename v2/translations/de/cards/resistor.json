@@ -1,0 +1,5 @@
+{
+  "id": "resistor",
+  "text": "Widerstand hat +1 Stärke für jede Markierung des Runners.\n[subroutine]<trace>Aufspüren 4</trace> Bei Erfolg beende den Run.",
+  "title": "Widerstand"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "muckraker",
+  "text": "Wenn du Skandalreporter lädst, erhälst du 1 negative Publicity.\n[subroutine] <trace>Aufspüren 1</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] Beende den Run, falls der Runner markiert ist.",
+  "title": "Skandalreporter"
+}

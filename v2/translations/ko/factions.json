@@ -1,0 +1,50 @@
+[
+  {
+    "id": "adam",
+    "name": "아담"
+  },
+  {
+    "id": "anarch",
+    "name": "아나크"
+  },
+  {
+    "id": "apex",
+    "name": "에이팩스"
+  },
+  {
+    "id": "criminal",
+    "name": "크리미널"
+  },
+  {
+    "id": "haas_bioroid",
+    "name": "하스 바이오로이드"
+  },
+  {
+    "id": "jinteki",
+    "name": "진테키"
+  },
+  {
+    "id": "nbn",
+    "name": "NBN"
+  },
+  {
+    "id": "neutral_corp",
+    "name": "중립"
+  },
+  {
+    "id": "neutral_runner",
+    "name": "중립"
+  },
+  {
+    "id": "shaper",
+    "name": "셰이퍼"
+  },
+  {
+    "id": "sunny_lebeau",
+    "name": "서니 르뷰"
+  },
+  {
+    "id": "weyland_consortium",
+    "name": "웨이랜드 컨소시엄"
+  }
+]

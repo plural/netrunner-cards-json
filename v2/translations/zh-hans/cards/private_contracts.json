@@ -1,0 +1,5 @@
+{
+  "id": "private_contracts",
+  "text": "当私人合约被激活时，从银行中放置14[credit]到本卡牌上。当私人合约上没有信用点时，销毁本卡牌。\n[click]: 从私人合约上拿取2[credit]。",
+  "title": "私人合约"
+}

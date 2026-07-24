@@ -1,0 +1,5 @@
+{
+  "id": "assassin",
+  "text": "[subroutine] <trace>추적 5</trace> 성공하면, 넷 피해 3점을 입힌다.\n[subroutine] <trace>추적 4</trace> 성공하면, 프로그램 1개를 폐기한다.",
+  "title": "암살자"
+}

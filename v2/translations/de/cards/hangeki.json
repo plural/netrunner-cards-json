@@ -1,0 +1,5 @@
+{
+  "id": "hangeki",
+  "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges eine Kon-Karte zerstört hat.\nWähle eine installierte Kon-Karte. Der Runner darf auf jene Karte zugreifen. Falls er dies tut, entferne Hangeki aus dem Spiel, statt diese Karte zu zerstören; ansonsten füge Hangeki als Agenda mit dem Wert -1 Agendapunkte der Punktezone des Runners hinzu.",
+  "title": null
+}

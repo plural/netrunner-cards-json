@@ -1,0 +1,5 @@
+{
+  "id": "pop_up_window",
+  "text": "Gdy runner spotyka Wyskakujące okienko, pobierz 1[credit].\n[subroutine] Zakończ skok, jeśli runner nie zapłaci 1[credit].",
+  "title": "Wyskakujące okienko"
+}

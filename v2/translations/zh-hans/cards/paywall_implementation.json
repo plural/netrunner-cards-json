@@ -1,0 +1,5 @@
+{
+  "id": "paywall_implementation",
+  "text": "本卡牌打出后不会被销毁，直到另一个<strong>局势</strong>被打出或一个议案被窃取。\n每当潜袭者进行一次成功的潜袭时，获得1[credit]。",
+  "title": "启用付费墙"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "core_set",
+    "name": "Core set"
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "Creazione e Controllo"
+  },
+  {
+    "id": "honor_and_profit",
+    "name": "Onore e Profitto"
+  },
+  {
+    "id": "lunar",
+    "name": "Lunare"
+  },
+  {
+    "id": "order_and_chaos",
+    "name": "Ordine e Caos"
+  },
+  {
+    "id": "sansan",
+    "name": "SanSan"
+  },
+  {
+    "id": "data_and_destiny",
+    "name": "Dati e Destino"
+  },
+  {
+    "id": "mumbad",
+    "name": "Mumbad"
+  }
+]

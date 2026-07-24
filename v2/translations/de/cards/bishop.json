@@ -1,0 +1,5 @@
+{
+  "id": "bishop",
+  "text": "[click]: Hoste Läufer auf einem Ice, auf dem aktuell kein anderes <strong>Caïssa</strong>-Programm gehostet ist. Falls Läufer bereits auf einem anderen Ice gehostet ist, kann das Programm nur wie folgt gehostet werden:\n- auf einem Ice, das ein zentrales System schützt, wenn der schon gehostete Läufer auf einem Ice eines ausgelagerten Servers gehostet ist.\n- auf einem Ice, das einen ausgelagerten Server schützt, wenn der schon gehostete Läufer auf einem Ice eines zentralen Systems gehostet ist.\nDas hostende Ice hat -2 Stärke.",
+  "title": "Läufer"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "tollbooth",
+  "text": "Lorsque le Runner rencontre le Péage, il doit payer 3[credit] s'il le peut. Si le Runner ne peut pas payer 3[credit], arrêtez le piratage.\n[subroutine] Arrêtez le piratage.",
+  "title": "Péage"
+}

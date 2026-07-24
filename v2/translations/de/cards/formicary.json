@@ -1,0 +1,5 @@
+{
+  "id": "formicary",
+  "text": "Sobald sich der Runner einem System annähert, darfst du Ameisennest laden. Falls du dies tust, verschiebe es auf die innerste Position in jenem System. Der Runner trifft nun darauf.\n[subroutine] Beende den Run, falls der Runner nicht 2 Netz-Schaden erleidet.",
+  "title": "Ameisennest"
+}

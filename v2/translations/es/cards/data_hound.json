@@ -1,0 +1,5 @@
+{
+  "id": "data_hound",
+  "text": "[subroutine] <trace>Rastreo 2</trace> Si tiene éxito, mira una cantidad de cartas de la parte superior del Montón del Runner igual a la cantidad en la que tu fuerza de rastreo superaba su fuerza de enlace. Destruye 1 de esas cartas y coloca el resto en cualquier orden. ",
+  "title": "Sabueso De Datos"
+}

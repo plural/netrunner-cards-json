@@ -1,0 +1,5 @@
+{
+  "id": "bullfrog",
+  "text": "[subroutine] Ty i runner w tajemnicy wydajecie 0[credit], 1[credit] lub 2[credit]. Ujawnijcie wydane kredyty. Jeśli ty i runner wydaliście różną liczbę kredytów, przesuń Ropuchę tak, aby stała się najdalszym lodem chroniącym inny serwer (runner kontynuuje skok od tej nowej pozycji, i przeprowadza teraz skok na ten nowy serwer).",
+  "title": "Ropucha"
+}

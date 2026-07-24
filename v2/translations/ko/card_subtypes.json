@@ -1,0 +1,354 @@
+[
+  {
+    "id": "ai",
+    "name": "AI"
+  },
+  {
+    "id": "ap",
+    "name": "AP"
+  },
+  {
+    "id": "advertisement",
+    "name": "광고"
+  },
+  {
+    "id": "alliance",
+    "name": "연합"
+  },
+  {
+    "id": "ambush",
+    "name": "Ambush"
+  },
+  {
+    "id": "barrier",
+    "name": "방벽"
+  },
+  {
+    "id": "beanstalk",
+    "name": "빈스톡"
+  },
+  {
+    "id": "bioroid",
+    "name": "바이오로이드"
+  },
+  {
+    "id": "black_ops",
+    "name": "비밀 작전"
+  },
+  {
+    "id": "caissa",
+    "name": "카이사"
+  },
+  {
+    "id": "cast",
+    "name": "방송"
+  },
+  {
+    "id": "character",
+    "name": "유명인"
+  },
+  {
+    "id": "chip",
+    "name": "칩"
+  },
+  {
+    "id": "clan",
+    "name": "Clan"
+  },
+  {
+    "id": "clone",
+    "name": "클론"
+  },
+  {
+    "id": "cloud",
+    "name": "클라우드"
+  },
+  {
+    "id": "code_gate",
+    "name": "코드 게이트"
+  },
+  {
+    "id": "condition",
+    "name": "상태"
+  },
+  {
+    "id": "connection",
+    "name": "연결"
+  },
+  {
+    "id": "console",
+    "name": "콘솔"
+  },
+  {
+    "id": "consumer_grade",
+    "name": "보급 기종"
+  },
+  {
+    "id": "corp",
+    "name": "Corporation"
+  },
+  {
+    "id": "corporation",
+    "name": "Corporation"
+  },
+  {
+    "id": "current",
+    "name": "동향"
+  },
+  {
+    "id": "cybernetic",
+    "name": "인공 장기"
+  },
+  {
+    "id": "cyborg",
+    "name": "Cyborg"
+  },
+  {
+    "id": "daemon",
+    "name": "데몬"
+  },
+  {
+    "id": "decoder",
+    "name": "디코더"
+  },
+  {
+    "id": "deflector",
+    "name": "디플렉터"
+  },
+  {
+    "id": "destroyer",
+    "name": "파괴자"
+  },
+  {
+    "id": "deva",
+    "name": "데바"
+  },
+  {
+    "id": "digital",
+    "name": "디지털"
+  },
+  {
+    "id": "directive",
+    "name": "강령"
+  },
+  {
+    "id": "division",
+    "name": "사업부"
+  },
+  {
+    "id": "double",
+    "name": "이중"
+  },
+  {
+    "id": "executive",
+    "name": "경영진"
+  },
+  {
+    "id": "expansion",
+    "name": "확장"
+  },
+  {
+    "id": "facility",
+    "name": "시설"
+  },
+  {
+    "id": "fracter",
+    "name": "프랙터"
+  },
+  {
+    "id": "g_mod",
+    "name": "G-모드"
+  },
+  {
+    "id": "gear",
+    "name": "착용장비"
+  },
+  {
+    "id": "genetics",
+    "name": "유전학"
+  },
+  {
+    "id": "government",
+    "name": "정부"
+  },
+  {
+    "id": "grail",
+    "name": "성배"
+  },
+  {
+    "id": "gray_ops",
+    "name": "준비밀 작전"
+  },
+  {
+    "id": "hostile",
+    "name": "적대적"
+  },
+  {
+    "id": "icebreaker",
+    "name": "아이스브레이커"
+  },
+  {
+    "id": "initiative",
+    "name": "계획"
+  },
+  {
+    "id": "job",
+    "name": "Job"
+  },
+  {
+    "id": "killer",
+    "name": "킬러"
+  },
+  {
+    "id": "liability",
+    "name": "불법"
+  },
+  {
+    "id": "link",
+    "name": "링크"
+  },
+  {
+    "id": "location",
+    "name": "장소"
+  },
+  {
+    "id": "megacorp",
+    "name": "거대기업"
+  },
+  {
+    "id": "mod",
+    "name": "모드"
+  },
+  {
+    "id": "morph",
+    "name": "변이"
+  },
+  {
+    "id": "mythic",
+    "name": "신화"
+  },
+  {
+    "id": "next",
+    "name": "NEXT"
+  },
+  {
+    "id": "natural",
+    "name": "타고난 인재"
+  },
+  {
+    "id": "observer",
+    "name": "목격자"
+  },
+  {
+    "id": "political",
+    "name": "정치적"
+  },
+  {
+    "id": "priority",
+    "name": "긴급"
+  },
+  {
+    "id": "psi",
+    "name": "초능력"
+  },
+  {
+    "id": "public",
+    "name": "공공"
+  },
+  {
+    "id": "region",
+    "name": "지역"
+  },
+  {
+    "id": "remote",
+    "name": "원격"
+  },
+  {
+    "id": "research",
+    "name": "연구"
+  },
+  {
+    "id": "ritzy",
+    "name": "호화로움"
+  },
+  {
+    "id": "run",
+    "name": "런"
+  },
+  {
+    "id": "sabotage",
+    "name": "사보타주"
+  },
+  {
+    "id": "security",
+    "name": "보안"
+  },
+  {
+    "id": "security_protocol",
+    "name": "Security Protocol"
+  },
+  {
+    "id": "seedy",
+    "name": "지저분함"
+  },
+  {
+    "id": "sensie",
+    "name": "센시"
+  },
+  {
+    "id": "sentry",
+    "name": "파수"
+  },
+  {
+    "id": "source",
+    "name": "근원"
+  },
+  {
+    "id": "stealth",
+    "name": "스텔스"
+  },
+  {
+    "id": "subsidiary",
+    "name": "Subsidiary"
+  },
+  {
+    "id": "sysop",
+    "name": "시솝"
+  },
+  {
+    "id": "terminal",
+    "name": "종착"
+  },
+  {
+    "id": "tracer",
+    "name": "추적자"
+  },
+  {
+    "id": "transaction",
+    "name": "거래"
+  },
+  {
+    "id": "trap",
+    "name": "함정"
+  },
+  {
+    "id": "triple",
+    "name": "Triple"
+  },
+  {
+    "id": "vehicle",
+    "name": "차량"
+  },
+  {
+    "id": "virtual",
+    "name": "가상체"
+  },
+  {
+    "id": "virus",
+    "name": "바이러스"
+  },
+  {
+    "id": "weapon",
+    "name": "폭탄"
+  }
+]

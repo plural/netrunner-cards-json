@@ -1,0 +1,5 @@
+{
+  "id": "ip_block",
+  "text": "当潜袭者遭遇IP拦截时，如果有一个已安装的<strong>智能模块</strong>，给予他/她1枚锁定标记。\n[subroutine] <trace>追踪 3</trace> 如果成功，给予潜袭者1枚锁定标记。\n[subroutine] 如果潜袭者被锁定，终止本次潜袭。",
+  "title": "IP拦截"
+}

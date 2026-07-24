@@ -1,0 +1,5 @@
+{
+  "id": "rex_campaign",
+  "text": "Lege 3 Wirkungszähler auf Rex-Kampagne, sobald sie geladen wird. Sobald sich keine Wirkungszähler mehr auf Rex-Kampagne befinden, zerstöre sie und entferne entweder 1 negative Publicity oder erhalte 5[credit].\nWenn dein Zug beginnt, entferne 1 Wirkungszähler von der Rex-Kampagne.",
+  "title": "Rex-Kampagne"
+}

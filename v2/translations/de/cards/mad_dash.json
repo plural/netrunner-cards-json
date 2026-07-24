@@ -1,0 +1,5 @@
+{
+  "id": "mad_dash",
+  "text": "Führe einen Run durch. Sobald dieser Run endet, füge Wilder Ansturm deiner Punktezone als Agenda mit dem Wert 1 Agendapunkt hinzu, falls du während des Runs mindestens eine Agenda gestohlen hast; ansonsten erleidest du 1 Körper-Schaden.",
+  "title": "Wilder Ansturm"
+}

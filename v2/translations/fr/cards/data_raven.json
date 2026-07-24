@@ -1,0 +1,5 @@
+{
+  "id": "data_raven",
+  "text": "Lorsque le Runner rencontre le Cyber Corbeau, il doit prendre 1 tag, soit arrêter le piratage.\n<strong>Pion Pouvoir hébergé</strong> : Donnez 1 tag au Runner.\n[subroutine] <trace>Traque 3</trace> Si la traque est réussie, placez 1 pion Pouvoir sur le Cyber Corbeau.",
+  "title": "Cyber Corbeau"
+}
