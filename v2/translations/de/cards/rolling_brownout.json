@@ -1,0 +1,5 @@
+{
+  "id": "rolling_brownout",
+  "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nDie Ausspielkosten für jede Operation und jedes Ereignis werden um 1 erhöht.\nWenn der Runner zum ersten Mal in einem Zug ein Ereignis spielt, erhältst du 1[credit].",
+  "title": "Stromverknappung"
+}

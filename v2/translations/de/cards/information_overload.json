@@ -1,0 +1,5 @@
+{
+  "id": "information_overload",
+  "text": "Wenn der Runner auf Informationsüberflutung trifft, <trace>Aufspüren 1</trace> verpasse dem Runner bei Erfolg 1 Markierung.\nInformationsüberflutung erhält \"[subroutine] Der Runner zerstört 1 seiner installierten Karten\" für jede Markierung des Runners.",
+  "title": "Informationsüberflutung"
+}

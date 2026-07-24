@@ -1,0 +1,5 @@
+{
+  "id": "thoth",
+  "text": "当潜袭者遭遇托特时，给予他/她1枚锁定标记。\n[subroutine] <trace>追踪 4</trace> 如果成功，潜袭者每有1枚锁定标记，造成1点网域伤害。\n[subroutine] <trace>追踪 4</trace> 如果成功，潜袭者每有1枚锁定标记，他/她失去1[credit]。",
+  "title": "托特"
+}

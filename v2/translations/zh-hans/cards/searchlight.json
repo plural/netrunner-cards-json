@@ -1,0 +1,5 @@
+{
+  "id": "searchlight",
+  "text": "探照灯能被推进。X等于探照灯上推进标记的数量。\n[subroutine] <trace>追踪 X</trace> 如果成功，给予潜袭者1枚锁定标记。\n[subroutine] <trace>追踪 X</trace> 如果成功，给予潜袭者1枚锁定标记。",
+  "title": "探照灯"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "knight",
+  "text": "2[credit]: Schalte eine Subroutine auf dem hostenden Ice aus.\n[click]: Hoste Springer auf einem Ice, das noch keine <strong>Caïssa</strong>-Programme hostet. Falls er bereits gehostet ist, kann Springer nur auf einem Ice gehostet werden, das nicht direkt vor oder hinter dem Ice installiert ist, das Springer derzeit hostet.",
+  "title": "Springer"
+}

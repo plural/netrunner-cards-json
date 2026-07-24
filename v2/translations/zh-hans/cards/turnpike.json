@@ -1,0 +1,5 @@
+{
+  "id": "turnpike",
+  "text": "当潜袭者遭遇收费高速时，他/她失去1[credit]。\n[subroutine] <trace>追踪 5</trace> 如果成功，给予潜袭者1枚锁定标记。",
+  "title": "收费高速"
+}

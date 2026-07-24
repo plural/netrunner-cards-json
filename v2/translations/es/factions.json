@@ -1,0 +1,50 @@
+[
+  {
+    "id": "adam",
+    "name": "Adam"
+  },
+  {
+    "id": "anarch",
+    "name": "Anarchistas"
+  },
+  {
+    "id": "apex",
+    "name": "Apex"
+  },
+  {
+    "id": "criminal",
+    "name": "Delincuentes"
+  },
+  {
+    "id": "haas_bioroid",
+    "name": "Haas-Bioroid"
+  },
+  {
+    "id": "jinteki",
+    "name": "Jinteki"
+  },
+  {
+    "id": "nbn",
+    "name": "NBN"
+  },
+  {
+    "id": "neutral_corp",
+    "name": "Neutrales"
+  },
+  {
+    "id": "neutral_runner",
+    "name": "Neutrales"
+  },
+  {
+    "id": "shaper",
+    "name": "Moldeadores"
+  },
+  {
+    "id": "sunny_lebeau",
+    "name": "Sunny Lebeau"
+  },
+  {
+    "id": "weyland_consortium",
+    "name": "Weyland Consortium"
+  }
+]

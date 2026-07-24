@@ -1,0 +1,58 @@
+[
+  {
+    "id": "draft",
+    "name": "Draft"
+  },
+  {
+    "id": "core_set",
+    "name": "Boite de base"
+  },
+  {
+    "id": "genesis",
+    "name": "Cycle de la Génèse"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "Création et Contrôle"
+  },
+  {
+    "id": "spin",
+    "name": "Cycle des Distorsions"
+  },
+  {
+    "id": "honor_and_profit",
+    "name": "Honneur et Profit"
+  },
+  {
+    "id": "lunar",
+    "name": "Cycle Lunaire"
+  },
+  {
+    "id": "order_and_chaos",
+    "name": "Ordre et Chaos"
+  },
+  {
+    "id": "sansan",
+    "name": "Cycle SanSan"
+  },
+  {
+    "id": "data_and_destiny",
+    "name": "Destinée et Données"
+  },
+  {
+    "id": "mumbad",
+    "name": "Cycle Mumbad"
+  },
+  {
+    "id": "flashpoint",
+    "name": "Point de Rupture"
+  },
+  {
+    "id": "red_sand",
+    "name": "Cycle Sable Rouge"
+  },
+  {
+    "id": "terminal_directive",
+    "name": "Terminal Directive"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "core_set",
+    "name": "Zestaw Podstawowy"
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "Tworzyć i kontrolować"
+  },
+  {
+    "id": "spin",
+    "name": "Odbioru"
+  }
+]

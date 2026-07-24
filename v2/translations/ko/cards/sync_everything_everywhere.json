@@ -1,0 +1,11 @@
+{
+  "faces": [
+    {
+      "text": "\n[click]: 이 ID를 뒤집는다.\n\n당신이 리소스를 폐기하기 위해 [click]을 쓸 때 2[credit]을 덜 지불한다. (카드 능력을 이용하는 것이 아닐 때)",
+      "title": null
+    }
+  ],
+  "id": "sync_everything_everywhere",
+  "text": "[click]: 이 ID를 뒤집는다.\n\n러너가 태그를 제거하기 위해 [click]을 쓸 때 1[credit]을 더 지불한다. (카드 능력을 이용하는 것이 아닐 때)\n",
+  "title": "싱크: 모든 것, 모든 곳"
+}

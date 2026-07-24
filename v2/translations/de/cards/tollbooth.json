@@ -1,0 +1,5 @@
+{
+  "id": "tollbooth",
+  "text": "Wenn der Runner auf Mautstelle trifft, muss er 3[credit] zahlen. Wenn der Runner keine 3[credit] zahlen kann, beende den Run.\n[subroutine] Beende den Run.",
+  "title": "Mautstelle"
+}

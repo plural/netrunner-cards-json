@@ -1,0 +1,5 @@
+{
+  "id": "rover_algorithm",
+  "text": "Installiere Rover-Algorithmus auf einem geladenen Ice als gehosteten Bedingungsmarker mit dem Text: \"Das hostende Ice hat +1 Stärke für jeden Wirkungszähler auf Rover-Algorithmus. Immer wenn der Runner an dem hostenden Ice vorbeikommt, lege 1 Wirkungszähler auf Rover-Algorithmus.\"",
+  "title": "Rover-Algorithmus"
+}

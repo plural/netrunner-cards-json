@@ -1,0 +1,5 @@
+{
+  "id": "self_destruct",
+  "text": "Kann nur in ein ausgelagertes System installiert werden.\n[trash]: Zerstöre alle Karten, die in diesem System installiert sind, oder es beschützen und <trace>Aufspüren X</trace> Bei Erfolg verursache 3 Netz-Schaden. X ist die Anzahl zerstörter Karten. Verwende diese Fertigkeit nur während eines Runs auf dieses System.",
+  "title": "Selbstzerstörung"
+}

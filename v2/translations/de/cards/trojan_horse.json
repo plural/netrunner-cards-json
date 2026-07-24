@@ -1,0 +1,5 @@
+{
+  "id": "trojan_horse",
+  "text": "Kann nur gespielt werden, falls der Runner während seines letztens Zuges auf mindestens 1 Karte zugegriffen hat.\n<trace>Aufspüren 4</trace> Bei Erfolg zerstöre 1 installiertes Programm mit Installationskosten, die höchstens der Differenz zwischen deiner Aufspürstärke und der Verbindungstärke des Runners entsprechen.",
+  "title": "Trojanisches Pferd"
+}

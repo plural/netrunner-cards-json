@@ -1,0 +1,5 @@
+{
+  "id": "enforced_curfew",
+  "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder eine Agenda gestohlen wird.\nDas Handkartenlimit des Runners wird um 1 gesenkt.",
+  "title": "Ausgangssperre durchsetzen"
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "draft",
+    "name": "Draft"
+  },
+  {
+    "id": "core_set",
+    "name": "Grundspiel"
+  },
+  {
+    "id": "what_lies_ahead",
+    "name": "Blick nach vorne"
+  },
+  {
+    "id": "trace_amount",
+    "name": "Spurensuche"
+  },
+  {
+    "id": "cyber_exodus",
+    "name": "Cyber-Exodus"
+  },
+  {
+    "id": "a_study_in_static",
+    "name": "Eine Studie in Rauschen"
+  },
+  {
+    "id": "humanitys_shadow",
+    "name": "Im Schatten der Menschheit"
+  },
+  {
+    "id": "future_proof",
+    "name": "Eine sichere Zukunft"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "Kontrolle und Schöpfung"
+  },
+  {
+    "id": "opening_moves",
+    "name": "Eröffnung"
+  },
+  {
+    "id": "second_thoughts",
+    "name": "Zweifel"
+  },
+  {
+    "id": "mala_tempora",
+    "name": "Mala Tempora"
+  },
+  {
+    "id": "true_colors",
+    "name": "Farbe bekennen"
+  },
+  {
+    "id": "fear_and_loathing",
+    "name": "Angst und Schrecken"
+  },
+  {
+    "id": "double_time",
+    "name": "Sonderzulage"
+  },
+  {
+    "id": "honor_and_profit",
+    "name": "Ehre und Profit"
+  },
+  {
+    "id": "upstalk",
+    "name": "Upstalk"
+  },
+  {
+    "id": "the_spaces_between",
+    "name": "Zwischenräume"
+  },
+  {
+    "id": "first_contact",
+    "name": "Erstkontakt"
+  },
+  {
+    "id": "up_and_over",
+    "name": "Mehr als genug"
+  },
+  {
+    "id": "all_that_remains",
+    "name": "Alles was bleibt"
+  },
+  {
+    "id": "the_source",
+    "name": "Die Quelle"
+  },
+  {
+    "id": "order_and_chaos",
+    "name": "Ordnung und Chaos"
+  },
+  {
+    "id": "the_valley",
+    "name": "Das Valley"
+  },
+  {
+    "id": "breaker_bay",
+    "name": "Breaker Bay"
+  },
+  {
+    "id": "chrome_city",
+    "name": "Chrome City"
+  },
+  {
+    "id": "the_underway",
+    "name": "Underway"
+  },
+  {
+    "id": "old_hollywood",
+    "name": "Old Hollywood"
+  },
+  {
+    "id": "the_universe_of_tomorrow",
+    "name": "Die Welt von morgen"
+  },
+  {
+    "id": "data_and_destiny",
+    "name": "Daten und Bestimmung"
+  },
+  {
+    "id": "kala_ghoda",
+    "name": "Kala Ghoda"
+  },
+  {
+    "id": "business_first",
+    "name": "Das Geschäft geht vor"
+  },
+  {
+    "id": "democracy_and_dogma",
+    "name": "Demokratie und Dogma"
+  },
+  {
+    "id": "salsette_island",
+    "name": "Salsette-Insel"
+  },
+  {
+    "id": "the_liberated_mind",
+    "name": "Der befreite Geist"
+  },
+  {
+    "id": "fear_the_masses",
+    "name": "Fürchte die Massen"
+  },
+  {
+    "id": "23_seconds",
+    "name": "23 Sekunden"
+  },
+  {
+    "id": "blood_money",
+    "name": "Blutgeld"
+  },
+  {
+    "id": "escalation",
+    "name": "Eskalation"
+  },
+  {
+    "id": "intervention",
+    "name": "Intervention"
+  },
+  {
+    "id": "martial_law",
+    "name": "Kriegsrecht"
+  },
+  {
+    "id": "quorum",
+    "name": "Quorum"
+  },
+  {
+    "id": "daedalus_complex",
+    "name": "Daedalus-Komplex"
+  },
+  {
+    "id": "station_one",
+    "name": "Station One"
+  },
+  {
+    "id": "terminal_directive_cards",
+    "name": "Tödliche Direktive"
+  },
+  {
+    "id": "earths_scion",
+    "name": "Erdenkind"
+  },
+  {
+    "id": "blood_and_water",
+    "name": "Blut und Wasser"
+  },
+  {
+    "id": "free_mars",
+    "name": "Freiheit für Mars"
+  },
+  {
+    "id": "crimson_dust",
+    "name": "Blutiger Staub"
+  },
+  {
+    "id": "sovereign_sight",
+    "name": "Herrliche Aussichten"
+  },
+  {
+    "id": "down_the_white_nile",
+    "name": "Den Weißen Nil hinab"
+  },
+  {
+    "id": "council_of_the_crest",
+    "name": "Gipfelrat"
+  },
+  {
+    "id": "the_devil_and_the_dragon",
+    "name": "Der Teufel und der Drache"
+  },
+  {
+    "id": "whispers_in_nalubaale",
+    "name": "Geflüster in Nalubaale"
+  },
+  {
+    "id": "kampala_ascendent",
+    "name": "Kampalas Aufstieg"
+  },
+  {
+    "id": "reign_and_reverie",
+    "name": "Herrschaft und Traum"
+  }
+]

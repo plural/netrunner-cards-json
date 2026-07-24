@@ -1,0 +1,5 @@
+{
+  "id": "city_works_project",
+  "text": "Installiere Stadtentwicklungsprojekt offen.\nSobald der Runner auf Stadtentwicklungsprojekt zugreift, solange es installiert ist, verursache 2 Körper-Schaden und 1 zusätzlichen Körper-Schaden für jeden Entwicklungsmarker darauf.",
+  "title": "Stadtentwicklungsprojekt"
+}

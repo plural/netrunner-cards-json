@@ -1,0 +1,5 @@
+{
+  "id": "hydra",
+  "text": "[subroutine] Verursache 3 Netz-Schaden, falls der Runner markiert ist; verpasse dem Runner ansonsten 1 Markierung.\n[subroutine] Du erhältst 5[credit], falls der Runner markiert ist; verpasse dem Runner ansonsten 1 Markierung.\n[subroutine] Beende den Run, falls der Runner markiert ist; verpasse dem Runner ansonsten 1 Markierung.\n",
+  "title": null
+}

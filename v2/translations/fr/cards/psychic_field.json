@@ -1,0 +1,5 @@
+{
+  "id": "psychic_field",
+  "text": "Si le Champ Psychique est installé et que le Runner l'expose ou y accède, le Runner et vous dépensez secrètement 0[credit], 1[credit], or 2[credit]. Révélez les crédits dépensés. Si le Runner et vous avez dépensez un nombre de crédits différent, infligez au Runner un nombre de dégâts Réseau égal au nombre de cartes dans sa main.",
+  "title": "Champ Psychique"
+}

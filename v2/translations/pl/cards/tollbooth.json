@@ -1,0 +1,5 @@
+{
+  "id": "tollbooth",
+  "text": "Gdy runner spotyka Rogatkę, musi zapłacić 3[credit], jeśli może. jeśli runner nie może zapłacić 3[credit], zakończ skok.\n[subroutine] Zakończ skok.",
+  "title": "Rogatka"
+}

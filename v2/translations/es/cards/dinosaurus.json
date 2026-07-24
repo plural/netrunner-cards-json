@@ -1,0 +1,5 @@
+{
+  "id": "dinosaurus",
+  "text": "Dinosaurio puede alojar un solo <strong>rompehielos</strong> que no sea <strong>IA</strong>. El coste de memoria del <strong>rompehielos</strong> alojado no cuenta para tu límite de memoria.\nEl <strong>rompehielos</strong> alojado tiene +2 puntos de fuerza.\nLímite de 1 <strong>consola</strong> por jugador.",
+  "title": "Dinosaurio"
+}

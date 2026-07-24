@@ -1,0 +1,5 @@
+{
+  "id": "tollbooth",
+  "text": "潜袭者遭遇收费站时，如可能，他/她必须支付3[credit]。如果潜袭者不能支付3[credit]，终止本次潜袭。\n[subroutine] 终止本次潜袭。",
+  "title": "收费站"
+}

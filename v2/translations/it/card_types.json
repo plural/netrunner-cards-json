@@ -1,0 +1,46 @@
+[
+  {
+    "id": "agenda",
+    "name": "Obiettivo"
+  },
+  {
+    "id": "asset",
+    "name": "Asset"
+  },
+  {
+    "id": "corp_identity",
+    "name": "Identita'"
+  },
+  {
+    "id": "event",
+    "name": "Evento"
+  },
+  {
+    "id": "hardware",
+    "name": "Hardware"
+  },
+  {
+    "id": "ice",
+    "name": "Ghiaccio"
+  },
+  {
+    "id": "operation",
+    "name": "Operazione"
+  },
+  {
+    "id": "program",
+    "name": "Programma"
+  },
+  {
+    "id": "resource",
+    "name": "Risorsa"
+  },
+  {
+    "id": "runner_identity",
+    "name": "Identita'"
+  },
+  {
+    "id": "upgrade",
+    "name": "Aggiornamento"
+  }
+]

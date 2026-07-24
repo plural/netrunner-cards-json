@@ -1,0 +1,5 @@
+{
+  "id": "veritas",
+  "text": "[subroutine] 公司获得2[credit]。\n[subroutine] 潜袭者失去2[credit]。\n[subroutine] <trace>追踪 2</trace> 如果成功，给予潜袭者1枚锁定标记。",
+  "title": "真理"
+}

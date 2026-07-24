@@ -1,0 +1,5 @@
+{
+  "id": "test_run",
+  "text": "Busca un programa en tu Montón o en tu Pila. Instala el programa ignorando todos los costes. Baraja tu Montón si lo buscaste ahí. Cuando acabe este turno, añade el programa a la parte superior de tu Montón si sigue instalado.",
+  "title": "Ejecución De Prueba"
+}

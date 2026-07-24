@@ -1,0 +1,5 @@
+{
+  "id": "data_loop",
+  "text": "Sobald der Runner auf Datenschleife trifft, muss er 2 Karten von seinem Griff oben auf den Stapel legen.\n[subroutine] Beende den Run, falls der Runner markiert ist.\n[subroutine] Beende den Run.",
+  "title": "Datenschleife"
+}

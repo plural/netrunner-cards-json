@@ -1,0 +1,5 @@
+{
+  "id": "thoth",
+  "text": "Wenn der Runner auf Thot trifft, verpasse ihm 1 Markierung.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verursache 1 Netz-Schaden für jede Markierung, die der Runner hat.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verliert der Runner 1[credit] für jede Markierung, die er hat.",
+  "title": "Thot"
+}

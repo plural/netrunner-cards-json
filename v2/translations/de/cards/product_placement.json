@@ -1,0 +1,5 @@
+{
+  "id": "product_placement",
+  "text": "Falls der Runner von F&E auf Produktplatzierung zugreift, muss er sie aufdecken.\nWenn der Runner auf Produktplatzierung zugreift, erhält der Kon 2[credit]. Ignoriere diesen Effekt, falls vom Archiv auf Produktplatzierung zugegriffen wird.",
+  "title": "Produktplazierung"
+}

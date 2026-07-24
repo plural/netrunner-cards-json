@@ -1,0 +1,5 @@
+{
+  "id": "quicksand",
+  "text": "Wenn der Runner auf Treibsand trifft, lege 1 Wirkungszähler darauf.\nTreibsand hat +1 Stärke für jeden Wirkungszähler darauf.\n[subroutine] Beende den Run.",
+  "title": "Treibsand"
+}
