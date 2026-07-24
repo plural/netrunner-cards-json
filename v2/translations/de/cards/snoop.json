@@ -1,0 +1,5 @@
+{
+  "id": "snoop",
+  "text": "Wenn der Runner auf Schnüffler trifft, decke alle Karten im Griff des Runners auf.\n<strong>Gehosteter Wirkungszähler:</strong> Decke alle Karten im Griff des Runners auf. Zerstöre 1 dieser Karten.\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg lege 1 Wirkungszähler auf Schnüffler.",
+  "title": "Schnüffler"
+}

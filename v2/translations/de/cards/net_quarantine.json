@@ -1,0 +1,5 @@
+{
+  "id": "net_quarantine",
+  "text": "Die Grundverbindungsstärke des Runners wird während des ersten Aufspürens in jedem Zug auf 0 gesenkt.\nImmer wenn der Runner seine Verbindungsstärke durch Zahlung von Credits erhöht, erhalte 1[credit] für jeweils 2[credit], die so ausgegeben wurden.",
+  "title": "Netzquarantäne"
+}

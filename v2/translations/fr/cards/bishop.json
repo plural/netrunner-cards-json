@@ -1,0 +1,5 @@
+{
+  "id": "bishop",
+  "text": "[click]: Hébergez le Fou sur une glace qui n'héberge pas de <strong>Caïssa</strong>. S'il est déjà hébergé, le Fou ne peut être hébergé que sur une glace qui protège un serveur central si le Fou est sur une glace qui protège un serveur distant, ou sur une glace protégeant un serveur distant si le Fou est sur une glace protégeant un serveur central.\nLa glace hôte à -2 en force.",
+  "title": null
+}

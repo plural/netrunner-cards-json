@@ -1,0 +1,5 @@
+{
+  "id": "universal_connectivity_fee",
+  "text": "[subroutine] 潜袭者失去1[credit]，除非潜袭者被锁定。如果潜袭者被锁定，他/她失去其信用池中所有的信用点，并且公司销毁通用连接费。",
+  "title": "通用连接费"
+}

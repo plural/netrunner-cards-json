@@ -1,0 +1,5 @@
+{
+  "id": "white_hat",
+  "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nZwinge den Kon zu \"<trace>Aufspüren 3</trace> Bei Misserfolg decke alle Karten von HQ auf. Der Runner darf bis zu 2 Karten der aufgedeckten Karten wählen. Mische diese Karten in F&E.\"",
+  "title": "White-Hat-Angriff"
+}

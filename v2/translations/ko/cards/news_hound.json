@@ -1,0 +1,5 @@
+{
+  "id": "news_hound",
+  "text": "<strong>동향</strong>이 활성화 돼 있다면, 뉴스 하운드는 맨 마지막 서브루틴으로써 \"[subroutine] 런을 종료한다.\"를 얻는다.\n[subroutine] <trace>추적 3</trace> 성공하면, 러너에게 태그 1개를 준다.",
+  "title": "뉴스 하운드"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "mwanza_city_grid",
+  "text": "Kann nur im Root von HQ oder von F&E installiert werden.\nImmer wenn der Runner auf Karten in diesem System zugreift, greift er auf 3 zusätzliche Karten zu. Nach dem Zugriff erhältst du 2[credit] für jede Karte, auf die zugegriffen worden ist. Dies gilt auch in dem Run, in dem der Runner Stadtnetz von Mwanza zerstört.\nNur 1 <strong>Region</strong> pro Server.",
+  "title": "Stadtnetz von Mwanza"
+}

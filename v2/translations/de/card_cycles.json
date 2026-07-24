@@ -1,0 +1,66 @@
+[
+  {
+    "id": "draft",
+    "name": "Draft"
+  },
+  {
+    "id": "core_set",
+    "name": "Grundspiel"
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "Kontrolle und Schöpfung"
+  },
+  {
+    "id": "spin",
+    "name": "Spin"
+  },
+  {
+    "id": "honor_and_profit",
+    "name": "Ehre und Profit"
+  },
+  {
+    "id": "lunar",
+    "name": "Luna"
+  },
+  {
+    "id": "order_and_chaos",
+    "name": "Ordnung und Chaos"
+  },
+  {
+    "id": "sansan",
+    "name": "SanSan"
+  },
+  {
+    "id": "data_and_destiny",
+    "name": "Daten und Bestimmung"
+  },
+  {
+    "id": "mumbad",
+    "name": "Mumbad"
+  },
+  {
+    "id": "flashpoint",
+    "name": "Krisenherd"
+  },
+  {
+    "id": "red_sand",
+    "name": "Roter Sand"
+  },
+  {
+    "id": "terminal_directive",
+    "name": "Tödliche Direktive"
+  },
+  {
+    "id": "kitara",
+    "name": "Kitara"
+  },
+  {
+    "id": "reign_and_reverie",
+    "name": "Herrschaft und Traum"
+  }
+]

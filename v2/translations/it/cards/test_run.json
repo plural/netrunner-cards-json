@@ -1,0 +1,5 @@
+{
+  "id": "test_run",
+  "text": "Cerca un programma nel tuo stack o nel tuo heap. Installa quel programma, ignorandone tutti i costi. Rimescola il tuo stack se hai cercato al suo interno. Quando questo turno termina, aggiungi quel programma alla cima del tuo stack se è ancora installato.",
+  "title": "Incursione di Prova"
+}

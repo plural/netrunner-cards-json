@@ -1,0 +1,5 @@
+{
+  "id": "pop_up_window",
+  "text": "Cuando el Runner se enfrente a Ventana Emergente, ganas 1[credit].\n[subroutine] Termina la incursión a menos que el Runner pague 1[credit].",
+  "title": "Ventana Emergente"
+}

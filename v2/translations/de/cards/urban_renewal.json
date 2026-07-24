@@ -1,0 +1,5 @@
+{
+  "id": "urban_renewal",
+  "text": "Lege 3 Wirkungszähler auf Stadterneuerung, sobald die Karte geladen wird. Sobald sich kein Wirkungszähler mehr auf Stadterneuerung befindet, zerstöre sie und verursache 4 Körper-Schaden.\nWenn dein Zug beginnt, entferne 1 Wirkungszähler von Stadterneuerung.",
+  "title": "Stadterneuerung"
+}

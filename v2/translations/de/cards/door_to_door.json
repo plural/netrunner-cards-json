@@ -1,0 +1,5 @@
+{
+  "id": "door_to_door",
+  "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nWenn der Zug des Runners beginnt <trace>Aufspüren 1</trace>- Bei Erfolg füge 1 Körper-Schaden zu, falls der Runner markiert ist; ansonsten verpasse ihm 1 Markierung.",
+  "title": "Klinken putzen"
+}

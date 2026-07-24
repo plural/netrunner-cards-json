@@ -1,0 +1,5 @@
+{
+  "id": "enforcing_loyalty",
+  "text": "作为打出本事务的额外费用，花费[click]。\n<trace>追踪 3</trace> 如果成功，销毁一张已安装的，并且和潜袭者特性的派系不同的卡牌。",
+  "title": "厉行忠诚"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "parasite",
+  "text": "Installez le Parasite sur une glace activée.\nLa glace hôte a -1 en force pour chaque pion virus sur le Parasite, et est effacée si la force est de 0 ou moins.\nAu début de votre tour, mettez 1 pion virus sur le Parasite.",
+  "title": null
+}

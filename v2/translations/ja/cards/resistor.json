@@ -1,0 +1,5 @@
+{
+  "id": "resistor",
+  "text": "ランナーのタグ1つにつき、レジスターは強度+1。\n[subroutine] <trace>トレース 4</trace> - 成功した場合、ランの終了。",
+  "title": "レジスター"
+}

@@ -1,0 +1,310 @@
+[
+  {
+    "id": "ai",
+    "name": "AI"
+  },
+  {
+    "id": "ap",
+    "name": "対人"
+  },
+  {
+    "id": "advertisement",
+    "name": "広告"
+  },
+  {
+    "id": "alliance",
+    "name": "連盟"
+  },
+  {
+    "id": "ambush",
+    "name": "待ち伏せ"
+  },
+  {
+    "id": "barrier",
+    "name": "バリアー"
+  },
+  {
+    "id": "bioroid",
+    "name": "バイオロイド"
+  },
+  {
+    "id": "black_ops",
+    "name": "違法"
+  },
+  {
+    "id": "character",
+    "name": "人物"
+  },
+  {
+    "id": "chip",
+    "name": "チップ"
+  },
+  {
+    "id": "clan",
+    "name": "クラン"
+  },
+  {
+    "id": "clone",
+    "name": "クローン"
+  },
+  {
+    "id": "code_gate",
+    "name": "コードゲート"
+  },
+  {
+    "id": "condition",
+    "name": "条件"
+  },
+  {
+    "id": "connection",
+    "name": "コネ"
+  },
+  {
+    "id": "console",
+    "name": "コンソール"
+  },
+  {
+    "id": "corp",
+    "name": "企業"
+  },
+  {
+    "id": "corporation",
+    "name": "企業"
+  },
+  {
+    "id": "current",
+    "name": "現状"
+  },
+  {
+    "id": "cybernetic",
+    "name": "サイバネティック"
+  },
+  {
+    "id": "cyborg",
+    "name": "サイボーグ"
+  },
+  {
+    "id": "daemon",
+    "name": "デーモン"
+  },
+  {
+    "id": "decoder",
+    "name": "デコーダー"
+  },
+  {
+    "id": "deflector",
+    "name": "デフレクター"
+  },
+  {
+    "id": "destroyer",
+    "name": "デストロイヤー"
+  },
+  {
+    "id": "division",
+    "name": "部署"
+  },
+  {
+    "id": "double",
+    "name": "ダブル"
+  },
+  {
+    "id": "executive",
+    "name": "幹部"
+  },
+  {
+    "id": "expansion",
+    "name": "拡張"
+  },
+  {
+    "id": "facility",
+    "name": "施設"
+  },
+  {
+    "id": "fracter",
+    "name": "フラクター"
+  },
+  {
+    "id": "g_mod",
+    "name": "G-モード"
+  },
+  {
+    "id": "gear",
+    "name": "装具"
+  },
+  {
+    "id": "gray_ops",
+    "name": "触法"
+  },
+  {
+    "id": "hostile",
+    "name": "敵対"
+  },
+  {
+    "id": "icebreaker",
+    "name": "アイスブレイカー"
+  },
+  {
+    "id": "initiative",
+    "name": "構想"
+  },
+  {
+    "id": "job",
+    "name": "仕事"
+  },
+  {
+    "id": "killer",
+    "name": "キラー"
+  },
+  {
+    "id": "liability",
+    "name": "不法"
+  },
+  {
+    "id": "link",
+    "name": "リンク"
+  },
+  {
+    "id": "location",
+    "name": "場所"
+  },
+  {
+    "id": "megacorp",
+    "name": "メガコーポ"
+  },
+  {
+    "id": "mod",
+    "name": "改良"
+  },
+  {
+    "id": "next",
+    "name": "ネクスト"
+  },
+  {
+    "id": "natural",
+    "name": "天才"
+  },
+  {
+    "id": "observer",
+    "name": "オブザーバー"
+  },
+  {
+    "id": "off_site",
+    "name": "外部"
+  },
+  {
+    "id": "political",
+    "name": "政治"
+  },
+  {
+    "id": "priority",
+    "name": "先行"
+  },
+  {
+    "id": "psi",
+    "name": "サイ"
+  },
+  {
+    "id": "public",
+    "name": "公共"
+  },
+  {
+    "id": "region",
+    "name": "領域"
+  },
+  {
+    "id": "remote",
+    "name": "遠隔"
+  },
+  {
+    "id": "reprisal",
+    "name": "報復"
+  },
+  {
+    "id": "research",
+    "name": "研究"
+  },
+  {
+    "id": "ritzy",
+    "name": "豪勢"
+  },
+  {
+    "id": "run",
+    "name": "ラン"
+  },
+  {
+    "id": "sabotage",
+    "name": "破壊工作"
+  },
+  {
+    "id": "security",
+    "name": "保安"
+  },
+  {
+    "id": "security_protocol",
+    "name": "警備プロトコル"
+  },
+  {
+    "id": "seedy",
+    "name": "裏世界"
+  },
+  {
+    "id": "sentry",
+    "name": "セントリー"
+  },
+  {
+    "id": "source",
+    "name": "情報源"
+  },
+  {
+    "id": "stealth",
+    "name": "ステルス"
+  },
+  {
+    "id": "subsidiary",
+    "name": "子会社"
+  },
+  {
+    "id": "sysop",
+    "name": "シスオペ"
+  },
+  {
+    "id": "terminal",
+    "name": "最終"
+  },
+  {
+    "id": "tracer",
+    "name": "トレーサー"
+  },
+  {
+    "id": "transaction",
+    "name": "取引"
+  },
+  {
+    "id": "trap",
+    "name": "トラップ"
+  },
+  {
+    "id": "triple",
+    "name": "トリプル"
+  },
+  {
+    "id": "trojan",
+    "name": "トロイ"
+  },
+  {
+    "id": "unorthodox",
+    "name": "異端"
+  },
+  {
+    "id": "vehicle",
+    "name": "車両"
+  },
+  {
+    "id": "virtual",
+    "name": "仮想"
+  },
+  {
+    "id": "virus",
+    "name": "ウィルス"
+  }
+]

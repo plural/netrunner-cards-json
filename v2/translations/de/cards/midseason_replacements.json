@@ -1,0 +1,5 @@
+{
+  "id": "midseason_replacements",
+  "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Agenda gestohlen hat.\n<trace>Aufspüren 6</trace> Bei Erfolg verpasse dem Runner Markierungen in Höhe der Differenz zwischen deiner Aufspürstärke und seiner Verbindungsstärke.",
+  "title": "Unerwartete Auswechslung"
+}

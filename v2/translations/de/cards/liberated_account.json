@@ -1,0 +1,5 @@
+{
+  "id": "liberated_account",
+  "text": "Lege 16[credit] aus der Credit-Bank auf Befreites Konto, wenn es installiert wird. Wenn keine Credits mehr auf Befreites Konto sind, zerstöre es.\n[click]: Nimm 4[credit] von Befreites Konto.",
+  "title": "Befreites Konto"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "sync_bre",
+  "text": "[subroutine] <trace>追踪 4</trace> 如果成功，给予潜袭者1枚锁定标记。\n[subroutine] <trace>追踪 2</trace> 如果成功，每当潜袭者读取卡牌时，他/她减少读取一张。",
+  "title": "信网同步BRE"
+}

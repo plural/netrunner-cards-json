@@ -1,0 +1,5 @@
+{
+  "id": "data_raven",
+  "text": "Quando il Runner incontra il Corvo di Dati, deve scegliere se ricevere un tag o terminare l'incursione.\n<strong>Segnalino potenza ospitato:</strong> Assegna al Runner 1 tag.\n[subroutine] <trace>Tracciamento 3</trace> Se riuscito, colloca 1 segnalino potenza sul Corvo di Dati.",
+  "title": "Corvo di Dati"
+}

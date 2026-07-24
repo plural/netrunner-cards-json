@@ -1,0 +1,42 @@
+[
+  {
+    "id": "draft",
+    "name": "ドラフト"
+  },
+  {
+    "id": "core_set",
+    "name": "基本セット"
+  },
+  {
+    "id": "red_sand",
+    "name": "レッドサンド"
+  },
+  {
+    "id": "kitara",
+    "name": "キタラ"
+  },
+  {
+    "id": "reign_and_reverie",
+    "name": "統治と空想"
+  },
+  {
+    "id": "ashes",
+    "name": "アッシュズ"
+  },
+  {
+    "id": "magnum_opus_reprint",
+    "name": "マグヌム・オプス"
+  },
+  {
+    "id": "system_gateway",
+    "name": "システムゲートウェイ"
+  },
+  {
+    "id": "system_update_2021",
+    "name": "システムアップデート2021"
+  },
+  {
+    "id": "borealis",
+    "name": "ボレアリス"
+  }
+]

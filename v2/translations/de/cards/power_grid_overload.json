@@ -1,0 +1,5 @@
+{
+  "id": "power_grid_overload",
+  "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\n<trace>Aufspüren 2</trace> Bei Erfolg zerstöre 1 Hardware mit Installationskosten, die höchstens der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entsprechen.",
+  "title": "Gezielter Blackout"
+}

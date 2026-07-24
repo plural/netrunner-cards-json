@@ -1,0 +1,5 @@
+{
+  "id": "resistor",
+  "text": "潜袭者每有1枚锁定标记，电阻器的强度+1。\n[subroutine] <trace>追踪 4</trace> 如果成功，终止本次潜袭。",
+  "title": "电阻器"
+}

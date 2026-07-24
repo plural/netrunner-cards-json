@@ -1,0 +1,46 @@
+[
+  {
+    "id": "draft",
+    "name": "Draft"
+  },
+  {
+    "id": "core_set",
+    "name": "Caja básica"
+  },
+  {
+    "id": "genesis",
+    "name": "Génesis"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "Creación y Control"
+  },
+  {
+    "id": "spin",
+    "name": "Tergiversación"
+  },
+  {
+    "id": "honor_and_profit",
+    "name": "Honor y beneficios"
+  },
+  {
+    "id": "lunar",
+    "name": "Lunar"
+  },
+  {
+    "id": "order_and_chaos",
+    "name": "Orden y caos"
+  },
+  {
+    "id": "sansan",
+    "name": "SanSan"
+  },
+  {
+    "id": "data_and_destiny",
+    "name": "Datos y destino"
+  },
+  {
+    "id": "mumbad",
+    "name": "Mumbad"
+  }
+]

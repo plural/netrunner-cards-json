@@ -1,0 +1,5 @@
+{
+  "id": "data_raven",
+  "text": "Wenn der Runner auf Datenrabe trifft, muss er den Run beenden oder er bekommt eine Markierung verpasst.\n<strong>Gehosteter Wirkungszähler</strong> Verpasse dem Runner 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace> Wenn du erfolgreich bist, lege 1 Wirkungszähler auf Datenrabe.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+  "title": "Datenrabe"
+}

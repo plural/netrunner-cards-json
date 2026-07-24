@@ -1,0 +1,366 @@
+[
+  {
+    "id": "ai",
+    "name": "KI"
+  },
+  {
+    "id": "ap",
+    "name": "AP"
+  },
+  {
+    "id": "advertisement",
+    "name": "Werbung"
+  },
+  {
+    "id": "alliance",
+    "name": "Bündnis"
+  },
+  {
+    "id": "ambush",
+    "name": "Hinterhalt"
+  },
+  {
+    "id": "barrier",
+    "name": "Barriere"
+  },
+  {
+    "id": "beanstalk",
+    "name": "Beanstalk"
+  },
+  {
+    "id": "bioroid",
+    "name": "Bioroid"
+  },
+  {
+    "id": "black_ops",
+    "name": "Schwarze Ops"
+  },
+  {
+    "id": "caissa",
+    "name": "Caïssa"
+  },
+  {
+    "id": "cast",
+    "name": "Sendung"
+  },
+  {
+    "id": "character",
+    "name": "Charakter"
+  },
+  {
+    "id": "chip",
+    "name": "Chip"
+  },
+  {
+    "id": "clan",
+    "name": "Clan"
+  },
+  {
+    "id": "clone",
+    "name": "Klon"
+  },
+  {
+    "id": "cloud",
+    "name": "Cloud"
+  },
+  {
+    "id": "code_gate",
+    "name": "Code-Zugang"
+  },
+  {
+    "id": "condition",
+    "name": "Bedingung"
+  },
+  {
+    "id": "connection",
+    "name": "Kontakt"
+  },
+  {
+    "id": "console",
+    "name": "Konsole"
+  },
+  {
+    "id": "consumer_grade",
+    "name": "Endverbraucher"
+  },
+  {
+    "id": "corp",
+    "name": "Konzern"
+  },
+  {
+    "id": "corporation",
+    "name": "Konzern"
+  },
+  {
+    "id": "current",
+    "name": "Aktuell"
+  },
+  {
+    "id": "cybernetic",
+    "name": "Kybernetik"
+  },
+  {
+    "id": "cyborg",
+    "name": "Cyborg"
+  },
+  {
+    "id": "daemon",
+    "name": "Daemon"
+  },
+  {
+    "id": "decoder",
+    "name": "Decoder"
+  },
+  {
+    "id": "deflector",
+    "name": "Deflektor"
+  },
+  {
+    "id": "destroyer",
+    "name": "Zerstörer"
+  },
+  {
+    "id": "deva",
+    "name": "Deva"
+  },
+  {
+    "id": "digital",
+    "name": "Digital"
+  },
+  {
+    "id": "directive",
+    "name": "Direktive"
+  },
+  {
+    "id": "division",
+    "name": "Abteilung"
+  },
+  {
+    "id": "double",
+    "name": "Verdoppeln"
+  },
+  {
+    "id": "executive",
+    "name": "Führungskraft"
+  },
+  {
+    "id": "expansion",
+    "name": "Erweiterung"
+  },
+  {
+    "id": "facility",
+    "name": "Anlage"
+  },
+  {
+    "id": "fracter",
+    "name": "Fracter"
+  },
+  {
+    "id": "g_mod",
+    "name": "G-Mod"
+  },
+  {
+    "id": "gear",
+    "name": "Ausrüstung"
+  },
+  {
+    "id": "genetics",
+    "name": "Genetik"
+  },
+  {
+    "id": "government",
+    "name": "Regierung"
+  },
+  {
+    "id": "grail",
+    "name": "Gral"
+  },
+  {
+    "id": "gray_ops",
+    "name": "Graue Ops"
+  },
+  {
+    "id": "hostile",
+    "name": "Feindlich"
+  },
+  {
+    "id": "icebreaker",
+    "name": "Ice-Brecher"
+  },
+  {
+    "id": "initiative",
+    "name": "Initiative"
+  },
+  {
+    "id": "job",
+    "name": "Job"
+  },
+  {
+    "id": "killer",
+    "name": "Killer"
+  },
+  {
+    "id": "liability",
+    "name": "Illegal"
+  },
+  {
+    "id": "link",
+    "name": "Verbindung"
+  },
+  {
+    "id": "location",
+    "name": "Ort"
+  },
+  {
+    "id": "megacorp",
+    "name": "Megakon"
+  },
+  {
+    "id": "mod",
+    "name": "Mod"
+  },
+  {
+    "id": "morph",
+    "name": "Morph"
+  },
+  {
+    "id": "mythic",
+    "name": "Mythisch"
+  },
+  {
+    "id": "next",
+    "name": "NEXT"
+  },
+  {
+    "id": "natural",
+    "name": "Natürlich"
+  },
+  {
+    "id": "observer",
+    "name": "Beobachter"
+  },
+  {
+    "id": "off_site",
+    "name": "Extern"
+  },
+  {
+    "id": "political",
+    "name": "Politisch"
+  },
+  {
+    "id": "priority",
+    "name": "Priorität"
+  },
+  {
+    "id": "psi",
+    "name": "Psi"
+  },
+  {
+    "id": "public",
+    "name": "Öffentlich"
+  },
+  {
+    "id": "region",
+    "name": "Region"
+  },
+  {
+    "id": "remote",
+    "name": "Ausgelagert"
+  },
+  {
+    "id": "reprisal",
+    "name": "Vergeltung"
+  },
+  {
+    "id": "research",
+    "name": "Forschung"
+  },
+  {
+    "id": "ritzy",
+    "name": "Protzig"
+  },
+  {
+    "id": "run",
+    "name": "Job"
+  },
+  {
+    "id": "sabotage",
+    "name": "Sabotage"
+  },
+  {
+    "id": "security",
+    "name": "Sicherheit"
+  },
+  {
+    "id": "security_protocol",
+    "name": "Sicherheitsprotokoll"
+  },
+  {
+    "id": "seedy",
+    "name": "Zwielichtig"
+  },
+  {
+    "id": "sensie",
+    "name": "Simsinn"
+  },
+  {
+    "id": "sentry",
+    "name": "Code-Zugang"
+  },
+  {
+    "id": "source",
+    "name": "Quelle"
+  },
+  {
+    "id": "stealth",
+    "name": "Heimlichkeit"
+  },
+  {
+    "id": "subsidiary",
+    "name": "Tochterunternehmen"
+  },
+  {
+    "id": "sysop",
+    "name": "Sysop"
+  },
+  {
+    "id": "terminal",
+    "name": "Final"
+  },
+  {
+    "id": "tracer",
+    "name": "Spürhund"
+  },
+  {
+    "id": "transaction",
+    "name": "Transaktion"
+  },
+  {
+    "id": "trap",
+    "name": "Falle"
+  },
+  {
+    "id": "triple",
+    "name": "Verdreifachen"
+  },
+  {
+    "id": "unorthodox",
+    "name": "Unorthodox"
+  },
+  {
+    "id": "vehicle",
+    "name": "Fahrzeug"
+  },
+  {
+    "id": "virtual",
+    "name": "Virtuell"
+  },
+  {
+    "id": "virus",
+    "name": "Virus"
+  },
+  {
+    "id": "weapon",
+    "name": "Bombe"
+  }
+]

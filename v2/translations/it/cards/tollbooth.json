@@ -1,0 +1,5 @@
+{
+  "id": "tollbooth",
+  "text": "Quando il Runner incontra il Casello di Pedaggio, deve pagare 3[credit], se può farlo. Se non può pagare 3[credit], l'incursione termina.\n[subroutine] L'incursione termina.",
+  "title": "Casello di Pedaggio"
+}

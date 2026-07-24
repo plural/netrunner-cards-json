@@ -1,0 +1,5 @@
+{
+  "id": "power_grid_overload",
+  "text": "Juega esta carta sólo si el Runner realizó una incursión con éxito durante su último turno.\n<trace>Rastreo 2</trace> Si tiene éxito, destruye 1 hardware con un coste de instalación igual o menor a la cantidad por la que tu fuerza de rastreo superaba la fuerza de enlace del Runner.",
+  "title": "Sobrecarga De La Red Eléctrica"
+}

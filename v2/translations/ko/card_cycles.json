@@ -1,0 +1,50 @@
+[
+  {
+    "id": "draft",
+    "name": "드래프트"
+  },
+  {
+    "id": "core_set",
+    "name": "코어 세트"
+  },
+  {
+    "id": "genesis",
+    "name": "기원"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "창조와 통제"
+  },
+  {
+    "id": "spin",
+    "name": "회전"
+  },
+  {
+    "id": "honor_and_profit",
+    "name": "명예와 이익"
+  },
+  {
+    "id": "lunar",
+    "name": "루나"
+  },
+  {
+    "id": "order_and_chaos",
+    "name": "질서와 혼돈"
+  },
+  {
+    "id": "sansan",
+    "name": "산산"
+  },
+  {
+    "id": "data_and_destiny",
+    "name": "데이터와 운명"
+  },
+  {
+    "id": "mumbad",
+    "name": "뭄바드"
+  },
+  {
+    "id": "flashpoint",
+    "name": "일촉즉발"
+  }
+]

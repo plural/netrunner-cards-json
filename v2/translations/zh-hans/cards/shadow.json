@@ -1,0 +1,5 @@
+{
+  "id": "shadow",
+  "text": "影子能被推进，并且其上每有1枚推进标记，其强度+1。\n[subroutine] 公司获得2[credit]。\n[subroutine] <trace>追踪 3</trace> 如果成功，给予潜袭者1枚锁定标记。",
+  "title": "影子"
+}

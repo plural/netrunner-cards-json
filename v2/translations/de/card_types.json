@@ -1,0 +1,46 @@
+[
+  {
+    "id": "agenda",
+    "name": "Agenda"
+  },
+  {
+    "id": "asset",
+    "name": "Aktivposten"
+  },
+  {
+    "id": "corp_identity",
+    "name": "Identität"
+  },
+  {
+    "id": "event",
+    "name": "Ereignis"
+  },
+  {
+    "id": "hardware",
+    "name": "Hardware"
+  },
+  {
+    "id": "ice",
+    "name": "ICE"
+  },
+  {
+    "id": "operation",
+    "name": "Operation"
+  },
+  {
+    "id": "program",
+    "name": "Programm"
+  },
+  {
+    "id": "resource",
+    "name": "Ressource"
+  },
+  {
+    "id": "runner_identity",
+    "name": "Identität"
+  },
+  {
+    "id": "upgrade",
+    "name": "Upgrade"
+  }
+]

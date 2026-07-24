@@ -1,0 +1,46 @@
+[
+  {
+    "id": "agenda",
+    "name": "아젠다"
+  },
+  {
+    "id": "asset",
+    "name": "자산"
+  },
+  {
+    "id": "corp_identity",
+    "name": "ID"
+  },
+  {
+    "id": "event",
+    "name": "이벤트"
+  },
+  {
+    "id": "hardware",
+    "name": "하드웨어"
+  },
+  {
+    "id": "ice",
+    "name": "아이스"
+  },
+  {
+    "id": "operation",
+    "name": "운영"
+  },
+  {
+    "id": "program",
+    "name": "프로그램"
+  },
+  {
+    "id": "resource",
+    "name": "리소스"
+  },
+  {
+    "id": "runner_identity",
+    "name": "ID"
+  },
+  {
+    "id": "upgrade",
+    "name": "개선"
+  }
+]

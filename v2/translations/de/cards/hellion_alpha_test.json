@@ -1,0 +1,5 @@
+{
+  "id": "hellion_alpha_test",
+  "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Ressource installiert hat.\n<trace>Aufspüren 2</trace> Bei Erfolg füge 1 installierte Ressource oben dem Stapel des Runners hinzu. Bei Misserfolg erhältst du 1 negative Publicity.",
+  "title": "Hellion Alpha-Test"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "shadow",
+  "text": "E' possibile far progredire l'Ombra, che avrà forza +1 per ogni segnalino progresso presente su di essa.\n[subroutine] La Corp ottiene 2[credit].\n[subroutine] <trace>Tracciamento 3</trace> Se riuscito, assegna al Runner 1 tag.",
+  "title": "Ombra"
+}

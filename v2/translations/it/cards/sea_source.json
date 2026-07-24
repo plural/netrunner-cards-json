@@ -1,0 +1,5 @@
+{
+  "id": "sea_source",
+  "text": "Giocabile solo se il Runner ha effettuato un'incursione riuscita nel suo ultimo turno.\n<trace>Tracciamento 3</trace> Se riuscito, assegna al Runner 1 tag.",
+  "title": "Fonte SEA"
+}

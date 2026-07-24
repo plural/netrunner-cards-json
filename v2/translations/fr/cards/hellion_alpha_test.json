@@ -1,0 +1,5 @@
+{
+  "id": "hellion_alpha_test",
+  "text": "Jouable uniquement si le Runner a installé une ressource lors de son dernier tour.\n<trace>Traque 2</trace> Si la traque est réussie, mettez 1 ressource installée au sommet de la pile du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse.",
+  "title": "Test Hellion Alpha"
+}

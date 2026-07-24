@@ -1,0 +1,5 @@
+{
+  "id": "tollbooth",
+  "text": "Cuando el Runner se enfrente a Puesto de Peaje, debe pagar 3[credit] si puede. Si el Runner no puede pagar 3[credit], termina la incursión.\n[subroutine] Termina la incursión.",
+  "title": "Puesto de Peaje"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "searchlight",
+  "text": "탐조등은 발전될 수 있다. X는 탐조등에 놓인 발전 토큰의 개수이다.\n[subroutine] <trace>추적 X</trace> 성공하면, 러너에게 태그 1개를 준다.\n[subroutine] <trace>추적 X</trace> 성공하면, 러너에게 태그 1개를 준다.",
+  "title": "탐조등"
+}

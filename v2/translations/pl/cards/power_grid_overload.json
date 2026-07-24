@@ -1,0 +1,5 @@
+{
+  "id": "power_grid_overload",
+  "text": "Zagraj tylko jeśli w swojej ostatniej turze runner przeprowadził udany skok.\n<trace>Trace 2</trace> Jeśli udane, skasuj 1 sprzęt o koszcie instalacji mniejszym bądź równym różnicy siły namierzania i siły połączenia.",
+  "title": "Przeciążenie sieci energetycznej"
+}

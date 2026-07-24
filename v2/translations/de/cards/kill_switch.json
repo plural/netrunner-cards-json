@@ -1,0 +1,5 @@
+{
+  "id": "kill_switch",
+  "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nImmer wenn auf eine Agenda zugegriffen oder die Punkte für sie erzielt werden, <trace>Aufspüren 3</trace> Bei Erfolg, verursache 1 Hirn-Schaden.",
+  "title": "Notausschalter"
+}

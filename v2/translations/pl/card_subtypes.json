@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ai",
+    "name": "AI"
+  },
+  {
+    "id": "ap",
+    "name": "AP"
+  },
+  {
+    "id": "advertisement",
+    "name": "Reklama"
+  },
+  {
+    "id": "ambush",
+    "name": "Ambush"
+  },
+  {
+    "id": "barrier",
+    "name": "Bariera"
+  },
+  {
+    "id": "bioroid",
+    "name": "Bioroid"
+  },
+  {
+    "id": "black_ops",
+    "name": "Czarna Operacja"
+  },
+  {
+    "id": "character",
+    "name": "Character"
+  },
+  {
+    "id": "chip",
+    "name": "Chip"
+  },
+  {
+    "id": "clan",
+    "name": "Clan"
+  },
+  {
+    "id": "clone",
+    "name": "Clone"
+  },
+  {
+    "id": "cloud",
+    "name": "Chmura"
+  },
+  {
+    "id": "code_gate",
+    "name": "Brama kodowa"
+  },
+  {
+    "id": "condition",
+    "name": "Warunek"
+  },
+  {
+    "id": "connection",
+    "name": "Kontakt"
+  },
+  {
+    "id": "console",
+    "name": "Konsola"
+  },
+  {
+    "id": "corp",
+    "name": "Corporation"
+  },
+  {
+    "id": "corporation",
+    "name": "Corporation"
+  },
+  {
+    "id": "current",
+    "name": "Current"
+  },
+  {
+    "id": "cyborg",
+    "name": "Cyborg"
+  },
+  {
+    "id": "daemon",
+    "name": "Demon"
+  },
+  {
+    "id": "decoder",
+    "name": "Dekoder"
+  },
+  {
+    "id": "deflector",
+    "name": "Deflektor"
+  },
+  {
+    "id": "destroyer",
+    "name": "Niszczyciel"
+  },
+  {
+    "id": "directive",
+    "name": "Directive"
+  },
+  {
+    "id": "division",
+    "name": "Oddział"
+  },
+  {
+    "id": "double",
+    "name": "Double"
+  },
+  {
+    "id": "executive",
+    "name": "Kierownictwo"
+  },
+  {
+    "id": "expansion",
+    "name": "Ekspansja"
+  },
+  {
+    "id": "facility",
+    "name": "Placówka"
+  },
+  {
+    "id": "fracter",
+    "name": "Fracter"
+  },
+  {
+    "id": "g_mod",
+    "name": "G-mod"
+  },
+  {
+    "id": "gear",
+    "name": "Ekwipunek"
+  },
+  {
+    "id": "government",
+    "name": "Rząd"
+  },
+  {
+    "id": "gray_ops",
+    "name": "Gray Ops"
+  },
+  {
+    "id": "hostile",
+    "name": "Wrogi"
+  },
+  {
+    "id": "icebreaker",
+    "name": "Lodołamacz"
+  },
+  {
+    "id": "initiative",
+    "name": "Initiative"
+  },
+  {
+    "id": "job",
+    "name": "Job"
+  },
+  {
+    "id": "killer",
+    "name": "Killer"
+  },
+  {
+    "id": "liability",
+    "name": "Illicit"
+  },
+  {
+    "id": "link",
+    "name": "Połączenie"
+  },
+  {
+    "id": "location",
+    "name": "Miejsce"
+  },
+  {
+    "id": "megacorp",
+    "name": "Megakorp"
+  },
+  {
+    "id": "mod",
+    "name": "Mod"
+  },
+  {
+    "id": "mythic",
+    "name": "Mityczny"
+  },
+  {
+    "id": "next",
+    "name": "NEXT"
+  },
+  {
+    "id": "natural",
+    "name": "Natural"
+  },
+  {
+    "id": "observer",
+    "name": "Obserwator"
+  },
+  {
+    "id": "priority",
+    "name": "Priority"
+  },
+  {
+    "id": "psi",
+    "name": "Psi"
+  },
+  {
+    "id": "region",
+    "name": "Region"
+  },
+  {
+    "id": "remote",
+    "name": "Zdalny"
+  },
+  {
+    "id": "research",
+    "name": "Badania"
+  },
+  {
+    "id": "ritzy",
+    "name": "Elegancki"
+  },
+  {
+    "id": "run",
+    "name": "Run"
+  },
+  {
+    "id": "sabotage",
+    "name": "Sabotaż"
+  },
+  {
+    "id": "security",
+    "name": "Ochrona"
+  },
+  {
+    "id": "security_protocol",
+    "name": "Security Protocol"
+  },
+  {
+    "id": "seedy",
+    "name": "Podejrzany"
+  },
+  {
+    "id": "sentry",
+    "name": "Strażnik"
+  },
+  {
+    "id": "stealth",
+    "name": "Niewykrywalny"
+  },
+  {
+    "id": "subsidiary",
+    "name": "Subsidiary"
+  },
+  {
+    "id": "sysop",
+    "name": "Sysop"
+  },
+  {
+    "id": "terminal",
+    "name": "Terminal"
+  },
+  {
+    "id": "tracer",
+    "name": "Tropiciel"
+  },
+  {
+    "id": "transaction",
+    "name": "Transakcja"
+  },
+  {
+    "id": "trap",
+    "name": "Pułapka"
+  },
+  {
+    "id": "triple",
+    "name": "Triple"
+  },
+  {
+    "id": "unorthodox",
+    "name": "Nietypowy"
+  },
+  {
+    "id": "virtual",
+    "name": "Wirtualny"
+  },
+  {
+    "id": "virus",
+    "name": "Wirus"
+  }
+]

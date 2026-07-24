@@ -1,0 +1,5 @@
+{
+  "id": "parasite",
+  "text": "Sólo puedes instalar Parásito en un hielo ejecutado.\nEl anfitrión tiene -1 punto de fuerza por cada contador de virus que haya sobre Parásito, y es destruido si su fuerza es 0 o menos.\nCuando comience tu turno, coloca 1 contador de virus sobre Parásito.",
+  "title": "Parásito"
+}

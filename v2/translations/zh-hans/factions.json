@@ -1,0 +1,50 @@
+[
+  {
+    "id": "adam",
+    "name": "亚当"
+  },
+  {
+    "id": "anarch",
+    "name": "反叛者"
+  },
+  {
+    "id": "apex",
+    "name": "尖峰"
+  },
+  {
+    "id": "criminal",
+    "name": "逆法者"
+  },
+  {
+    "id": "haas_bioroid",
+    "name": "哈斯生化"
+  },
+  {
+    "id": "jinteki",
+    "name": "人间会社"
+  },
+  {
+    "id": "nbn",
+    "name": "网际传媒"
+  },
+  {
+    "id": "neutral_corp",
+    "name": "中立"
+  },
+  {
+    "id": "neutral_runner",
+    "name": "中立"
+  },
+  {
+    "id": "shaper",
+    "name": "塑造者"
+  },
+  {
+    "id": "sunny_lebeau",
+    "name": "桑妮·勒博"
+  },
+  {
+    "id": "weyland_consortium",
+    "name": "威兰财团"
+  }
+]

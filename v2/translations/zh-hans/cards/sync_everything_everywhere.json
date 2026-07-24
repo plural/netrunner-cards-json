@@ -1,0 +1,11 @@
+{
+  "faces": [
+    {
+      "text": "[click]: 将本特性翻转。\n你花费[click]（不通过卡牌能力）来销毁一个资源时少支付2[credit]。",
+      "title": null
+    }
+  ],
+  "id": "sync_everything_everywhere",
+  "text": "[click]: 将本特性翻转。\n潜袭者花费[click]（不通过卡牌能力）来移除1枚锁定标记时多支付1[credit]。",
+  "title": "信网同步: 随事随地"
+}

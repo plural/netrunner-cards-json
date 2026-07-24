@@ -1,0 +1,90 @@
+[
+  {
+    "id": "draft",
+    "name": "ドラフト"
+  },
+  {
+    "id": "core_set",
+    "name": "基本セット"
+  },
+  {
+    "id": "daedalus_complex",
+    "name": "ダイダロス複合施設"
+  },
+  {
+    "id": "station_one",
+    "name": "ステーション・ワン"
+  },
+  {
+    "id": "earths_scion",
+    "name": "地球の末裔"
+  },
+  {
+    "id": "blood_and_water",
+    "name": "血と水"
+  },
+  {
+    "id": "free_mars",
+    "name": "フリー・マーズ"
+  },
+  {
+    "id": "crimson_dust",
+    "name": "クリムゾン・ダスト"
+  },
+  {
+    "id": "sovereign_sight",
+    "name": "統治者の景色"
+  },
+  {
+    "id": "down_the_white_nile",
+    "name": "白ナイルを下って"
+  },
+  {
+    "id": "council_of_the_crest",
+    "name": "頂の会議"
+  },
+  {
+    "id": "the_devil_and_the_dragon",
+    "name": "悪魔と竜"
+  },
+  {
+    "id": "whispers_in_nalubaale",
+    "name": "ナルバーレの囁き"
+  },
+  {
+    "id": "kampala_ascendent",
+    "name": "カンパラの支配"
+  },
+  {
+    "id": "reign_and_reverie",
+    "name": "統治と空想"
+  },
+  {
+    "id": "downfall",
+    "name": "ダウンフォール"
+  },
+  {
+    "id": "magnum_opus_reprint",
+    "name": "マグナム・オプス"
+  },
+  {
+    "id": "uprising",
+    "name": "アップライジング"
+  },
+  {
+    "id": "system_gateway",
+    "name": "システムゲートウェイ"
+  },
+  {
+    "id": "system_update_2021",
+    "name": "システムアップデート2021"
+  },
+  {
+    "id": "midnight_sun",
+    "name": "ミッドナイト・サン"
+  },
+  {
+    "id": "parhelion",
+    "name": "パーヘリオン"
+  }
+]

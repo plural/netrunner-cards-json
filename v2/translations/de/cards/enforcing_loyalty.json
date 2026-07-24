@@ -1,0 +1,5 @@
+{
+  "id": "enforcing_loyalty",
+  "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\n<trace>Aufspüren 3</trace> Bei Erfolg zerstöre eine installierte Karte, die nicht mit der Fraktion der Identität des Runners übereinstimmt.",
+  "title": "Loyalität vollziehen"
+}

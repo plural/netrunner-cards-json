@@ -1,0 +1,5 @@
+{
+  "id": "news_hound",
+  "text": "Falls eine <strong>Aktuell</strong>-Karte aktiv ist, erhält Nachrichten-Bluthund „[subroutine] Beende den Run.“ nach seinen übrigen Subroutinen.\n[subroutine]<trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+  "title": "Nachrichten-Bluthund"
+}

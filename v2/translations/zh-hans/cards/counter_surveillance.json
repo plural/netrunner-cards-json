@@ -1,0 +1,5 @@
+{
+  "id": "counter_surveillance",
+  "text": "[click], [trash]: 进行一次潜袭。如果成功，如可能，支付X[credit]以从本服务器读取最多X张卡牌，代替读取卡牌。X等于你所具有的锁定标记数量。",
+  "title": "反向监视"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "veritas",
+  "text": "[subroutine] The Corp gains 2[credit].\n[subroutine] The Runner loses 2[credit].\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
+  "title": null
+}

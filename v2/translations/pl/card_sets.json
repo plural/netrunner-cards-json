@@ -1,0 +1,50 @@
+[
+  {
+    "id": "core_set",
+    "name": "Zestaw Podstawowy"
+  },
+  {
+    "id": "what_lies_ahead",
+    "name": "Co niesie przyszłość"
+  },
+  {
+    "id": "trace_amount",
+    "name": "Ilość Śladowa"
+  },
+  {
+    "id": "cyber_exodus",
+    "name": "Cyber Exodus"
+  },
+  {
+    "id": "a_study_in_static",
+    "name": "Studium w Szumie"
+  },
+  {
+    "id": "humanitys_shadow",
+    "name": "Cień Ludzkości"
+  },
+  {
+    "id": "future_proof",
+    "name": "Odporne na Przyszłość"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "Tworzyć i kontrolować"
+  },
+  {
+    "id": "opening_moves",
+    "name": "Otwarcia"
+  },
+  {
+    "id": "second_thoughts",
+    "name": "Wątpliwości"
+  },
+  {
+    "id": "mala_tempora",
+    "name": "Mala Tempora"
+  },
+  {
+    "id": "true_colors",
+    "name": "Prawdziwe Barwy"
+  }
+]

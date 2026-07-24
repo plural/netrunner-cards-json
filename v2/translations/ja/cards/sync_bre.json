@@ -1,0 +1,5 @@
+{
+  "id": "sync_bre",
+  "text": "[subroutine] <trace>トレース 4</trace> - 成功した場合、ランナーにタグを1つ与える。\n[subroutine] <trace>トレース 2</trace>  - 成功した場合、このランの間、ランナーがカードをアクセスするたび、アクセスするカードの枚数は1枚少なくなる。",
+  "title": "SYNC-BRE"
+}

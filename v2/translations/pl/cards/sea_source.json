@@ -1,0 +1,5 @@
+{
+  "id": "sea_source",
+  "text": "Zagraj tylko, jeśli runner przeprowadził w swojej turze udany skok.\n<trace>Trace 3</trace> Jeśli udane, daj runnerowi 1 tag.",
+  "title": "Wtyczka w SEA"
+}

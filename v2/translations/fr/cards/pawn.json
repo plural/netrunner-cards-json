@@ -1,0 +1,5 @@
+{
+  "id": "pawn",
+  "text": "[click]: Hébergez le Pion sur la glace périphérique d'un serveur central.\nÀ chaque fois que vous réussissez un piratage, si le Pion est hébergé sur une glace, déplacez le sur la glace directement après celle qui l'héberge actuellement, si possible; sinon, effacez le Pion et installez un programme <strong>Caïssa</strong> de votre main ou de votre tas, en ignorant tous les coûts.",
+  "title": "Pion"
+}

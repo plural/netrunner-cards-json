@@ -1,0 +1,5 @@
+{
+  "id": "checkpoint",
+  "text": "チェックポイントをレゾした時、悪名を 1 つ受ける。\n[subroutine] <trace>トレース 5</trace> 成功した場合、このランが成功した時、3 ミートダメージを与える。",
+  "title": null
+}

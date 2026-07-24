@@ -1,0 +1,5 @@
+{
+  "id": "universal_connectivity_fee",
+  "text": "[subroutine] Der Runner verliert 1[credit], außer wenn der Runner markiert ist. Falls der Runner markiert ist, verliert er alle Credits in seinem Credit-Vorrat und der Konzern zerstört Allgemeine Anschlussgebühr.",
+  "title": "Allgemeine Anschlussgebühr"
+}

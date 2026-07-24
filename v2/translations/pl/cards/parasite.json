@@ -1,0 +1,5 @@
+{
+  "id": "parasite",
+  "text": "Pasożyta można instalować tylko na zrezowanym lodzie.\nHostujący lód ma -1 siły za każdy znacznik wirusa na Pasożycie i zostaje skasowany, jeśli jego siła wynosi 0 lub mniej.\nGdy zaczynasz turę, połóż 1 znacznik wirusa na Pasożycie.",
+  "title": "Pasożyt"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "parasite",
+  "text": "Installa Parassita solo su un pezzo di ghiaccio materializzato.\nIl ghiaccio ospitante ha forza -1 per ogni segnalino virus presente su Parassita, e viene eliminato se la sua forza è pari o inferiore a 0.\nQuando il tuo turno ha inizio, colloca 1 segnalino virus su Parassita.",
+  "title": "Parassita"
+}

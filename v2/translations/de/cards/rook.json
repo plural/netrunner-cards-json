@@ -1,0 +1,5 @@
+{
+  "id": "rook",
+  "text": "[click]: Hoste Turm auf einem Ice, das kein <strong>Caïssa</strong>-Programm hostet. Falls er bereits gehostet ist, kann Turm nur auf einem Ice gehostet werden, das entweder dieses System schützt, oder auf Ice, das ein anderes System schützt und sich dort in derselben Position (von innen gezählt) befindet.\nDie Ladekosten für jedes Ice, das dieses System schützt, werden um 2 erhöht.",
+  "title": "Turm"
+}
